@@ -2,5 +2,5 @@
 layout: post
 category: personal
 ---
-
+-or- Why academia is stupid
 A lot of people ask me what happened at Princeton that made me want to drop out of the PhD program in Economics there.
