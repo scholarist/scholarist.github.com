@@ -1,0 +1,21 @@
+body {
+  font-family: Tahoma, Arial, sans-serif;
+}
+.container {
+  margin: auto;
+  width: 800px;
+}
+#header {
+  margin: auto;
+  border: solid 1px #CCCCCC;
+  background: #DDDDDD;
+}
+#title {
+  font-family: Courier, fixed-width;
+  font-size: 2em;
+  margin: 10px 0 10px 130px;
+}
+#biline {
+  margin: 10px 0 10px 170px;
+  font-size: 1em;
+}
