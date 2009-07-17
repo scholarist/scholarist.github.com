@@ -1,10 +1,21 @@
 ---
 layout: post
 category: personal
+sub-title: 
 ---
 
-A lot of people ask me what happened at Princeton that made me want to drop out of the PhD program in Economics there. The short answer is that I decided  ididn't want to be an economist.
+A lot of people ask me what happened at Princeton that made me want to drop out of the PhD program in Economics there. The short answer is that I decided I didn't want to be an economist.
 
-The long answer is what follows.
+The long answer is this:
+
+A PhD in any field is not something one should take lightly. It requires a lot of dedication to an (often narrow) idea, and not many people will care enough to try to understand what you are saying. This may seem obvious, but I guess it wasn't to me as I applied to graduate school.
+
+I applied to programs in Economics perhaps foolishly thinking that I could put my love of math to use on problems that might actually impact people's lives. (Also I knew I didn't have the dedication or talent to pursue a PhD in mathematics, a common trait among Econ PhDs). But I pretty quickly realized that producing something that the world could use to improve itself would be hard.
+
+Now don't get me wrong, I enjoy working on hard problems, as long as there's a reasonable expectation of success. But producing good economic work is a highly creative endeavor, and one at which I don't think I'm particularly skilled. I think that was probably my biggest realization; you can be very smart, do well in college, learn quickly, etc., but if you can't think creatively in your field you will have a hard time completing a PhD and pursuing a career as an academic economist.
+
+So I started to see things this way: In the distribution of creative economic thinkers, I am somewhere near the middle. Thus the probability of me producing some great economic work that changes the world is pretty low. The probability of me becoming an average economist is very high. And I don't like to think about what my life as an average economist would be.
+
+But Bill Easterly pushed me over the top. For those of you who don't know, Bill Easterly is an economist who has come out strongly against providing unconstrained aid to the developing world because the data shows that it doesn't work. Check out his wikipedia page <a href="http://en.wikipedia.org/wiki/William_Easterly">here</a> or his book <a href="http://www.amazon.com/White-Mans-Burden-Efforts-Little/dp/0143038826/ref=sr_1_1?ie=UTF8&s=books&qid=1247855444&sr=1-1">here</a>. I went to a talk he gave at Columbia when I was at Princeton. The gist of the talk was this: throwing aid at governments is useless more often than not, because there's too often no accountability to the donors and almost always no feedback loop to gather input from the citizens the aid was intended to help. He recommended funding free enterprise and tearing down barriers to competition in these countries, since a free market tends to automatically have accountability and feedback built in.
 
 

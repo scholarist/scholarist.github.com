@@ -7,8 +7,8 @@ body {
 }
 #header {
   margin: auto;
-  border: solid 1px #CCCCCC;
-  background: #DDDDDD;
+  border: solid 1px #314B9D;
+  background: #8FA5ED;
 }
 #title {
   font-family: Courier, fixed-width;
@@ -18,4 +18,13 @@ body {
 #biline {
   margin: 10px 0 10px 170px;
   font-size: 1em;
+}
+#post{
+  padding: 15px 0 0 0;
+}
+#post-title{
+  font-size: 1.3em;
+}
+#post-date{
+  margin: 0 0 0 15px;
 }
