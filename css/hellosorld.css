@@ -1,5 +1,6 @@
 body {
   font-family: Verdana, Arial, sans-serif;
+  color: #606060;
 }
 .container {
   margin: auto;
@@ -9,6 +10,7 @@ body {
   margin: auto;
   border: solid 1px #314B9D;
   background: #8FA5ED;
+  color: #606060
 }
 #title {
   font-family: Courier, fixed-width;
@@ -18,13 +20,32 @@ body {
 #biline {
   margin: 10px 0 10px 170px;
   font-size: 1em;
+  font-weight: normal;
 }
-#post{
+#content {
   padding: 15px 0 0 0;
 }
-#post-title{
+#content-heading {
   font-size: 1.3em;
 }
-#post-date{
+#post-date {
   margin: 0 0 0 15px;
+}
+#footer {
+  text-align: center;
+}
+a {
+color: #314B9D;
+text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
+a:active, a:visited {
+color: #8FA5ED
+}
+ul {
+list-style-type: none;
+list-style-image: none;
+list-style-position: inside;
 }
