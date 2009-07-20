@@ -9,22 +9,36 @@ body {
 }
 #header {
   margin: auto;
+  padding: 10px;
   border: solid 1px #314B9D;
   background: #8FA5ED;
-  color: #606060
+}
+#header a {
+  color: #606060;
+}
+#header a:hover {
+  text-decoration: none;
 }
 #title {
   font-family: Courier, fixed-width;
   font-size: 2em;
-  margin: 10px 0 10px 130px;
+  margin: 0 0 0 130px;
 }
 #biline {
-  margin: 10px 0 10px 170px;
+  margin: 0 0 0 170px;
   font-size: 1em;
   font-weight: normal;
 }
+#sidebar {
+  width: 300px;
+  float: right;
+  border: solid 1px #606060;
+  background: #C9C9C9;
+  margin: 15px 0 0 10px;
+  padding: 10px;
+}
 #content {
-  padding: 15px 0 0 0;
+  margin: 15px 10px 0 0;
 }
 #content-heading {
   font-size: 1.3em;
