@@ -12,6 +12,7 @@ body {
   padding: 15px;
   border: solid 1px #314B9D;
   background: #8FA5ED;
+  overflow: hidden;
 }
 #header a {
   color: #606060;
@@ -19,8 +20,11 @@ body {
 #header a:hover {
   text-decoration: none;
 }
+#title-area {
+  float: left;
+}
 #title {
-  font-family: Courier, fixed-width;
+  font-family: "Courier", fixed-width;
   font-size: 2em;
   margin: 0 0 0 130px;
 }
@@ -28,6 +32,13 @@ body {
   margin: 0 0 0 170px;
   font-size: 1em;
   font-weight: normal;
+}
+#subscribe-area {
+  float: right;
+}
+.subscribe-area-item {
+  margin: 2px 0;
+  padding: 0;
 }
 #sidebar {
   width: 240px;
