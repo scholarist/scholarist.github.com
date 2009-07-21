@@ -9,7 +9,7 @@ body {
 }
 #header {
   margin: auto;
-  padding: 10px;
+  padding: 15px;
   border: solid 1px #314B9D;
   background: #8FA5ED;
 }
@@ -30,23 +30,36 @@ body {
   font-weight: normal;
 }
 #sidebar {
-  width: 300px;
+  width: 240px;
   float: right;
   border: solid 1px #606060;
   background: #C9C9C9;
-  margin: 15px 0 0 10px;
-  padding: 10px;
+  margin: 15px 0 0 15px;
+  padding: 15px;
+}
+.caption {
+  font-size: .7em;
+  text-align: center;
+}
+.blurb-heading {
+  font-size: 1.1em;
+  margin: 0;
+  padding: 15px 0 5px 0;
 }
 #content {
+  float: left;
+  width: 499px;
   margin: 15px 10px 0 0;
 }
-#content-heading {
+.content-heading {
   font-size: 1.3em;
+  margin: 0;
 }
 #post-date {
   margin: 0 0 0 15px;
 }
 #footer {
+  clear: both;
   text-align: center;
 }
 a {
@@ -63,4 +76,5 @@ ul {
 list-style-type: none;
 list-style-image: none;
 list-style-position: inside;
+margin: 15px 0 0 -25px;
 }
