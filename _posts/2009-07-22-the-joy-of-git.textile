@@ -1,0 +1,19 @@
+---
+layout: post
+category: tech
+sub-title: 
+---
+
+I've been fooling around a lot with Git recently and it totally blows Subversion out of the water.
+
+First, a little background. Both Git (git) and Subversion (svn) are "Version Control" or "Source Code Management" systems, which is software used by software developers to track changes to a project's source-code. A lot of times a project will contain hundreds if not thousands of separate source-code files that all depend on each other. If you have more than one developer working on a project of that magnitude it is a nightmare to keep track of the changes each is making and merge them together in a way that doesn't completely break the code. Some sort of version control system is absolutely necessary.
+
+When I started writing software in earnest about this time last year Subversion was still kind of the standard scm system. It was used to manage a lot of popular open-source software projects, including Ruby on Rails, which was the web-framework I was using at the time. Google also uses it to provide source-code hosting at code.google.com. So I jumped in.
+
+Subversion is great if you've got a little patience and haven't ever used scm before. It's probably great even if you haven't, given its popularity then and even now. The way it works is this: you set up a repository on a server that each developer can access. This becomes the central authoritative location for your project's files. Then each developer can "checkout" a copy of the code and work on it on her own, merging back (called "committing") only the changes she wants to when she's ready. Subversion handles the merge intelligently, and only bothers you when you try to commit something that interferes with another developer's change. Two developers can edit the same file, but as long as they don't edit the same individual lines of that file Subversion won't complain. There's obviously a lot of extra stuff you can do with it, but that's the basic idea.
+
+But then Linus Torvalds gave us Git. The idea with Git is distributed version control. Now instead of one single authoritative repository, each developer has his own local repository and commits changes to it. Each local repository carries the same weight as the central repository (if there is one). When a developer is ready to merge local changes with the central repository he just "pushes" his repository out to the central one. Everyone else can get his changes by "pulling" from the central repository once he's pushed. Again conflicts are handled intelligently, and in fact the ease of handling conflict resolution in Git is one of it's major benefits over Subversion.
+
+Now this probably doesn't sound too different from the Subversion description, because it's not. The real benefit of Git comes from being able to share code quickly and easily. With Subversion it's a hassle to set up an open-source repository. You have to worry about commit permissions and access control. It's also pretty annoying to set up a repository in general with Subversion compared to Git. There are separate commands for repository administration and repository use. Telling Subversion which files to ignore is a multi-step exercise involving still more commands. And Subversion gets easily confused when you delete or rename a file without telling it. Git handles all of these things so smoothly that it's hard to believe I had to worry so much about them before with Subversion.
+
+So I've been converted. So has Ruby on Rails apparently, because it is now managed by Git. And GitHub (<a href="http://github.com" target="_blank">github.com</a>) has quickly become one of the most popular code-sharing sites on the internet. Sign up for a GitHub account and give Git a try if you haven't already. I think you'll agree that it's a joy to use.
