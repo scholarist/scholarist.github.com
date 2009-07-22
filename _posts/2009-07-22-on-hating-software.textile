@@ -1,0 +1,13 @@
+---
+layout: post
+category: software
+sub-title: 
+---
+
+<a href="http://www.codinghorror.com/blog/archives/001289.html" target="_blank">www.codinghorror.com/blog/archives/001289.html</a>
+
+Writing software makes you hate bad software since you generally have ideas about how it could have been done better. That doesn't necessarily mean you think your software is good though. It just means you end up hating your own software as well.
+
+The problem is that writing software is hard. And once you have something working you will do a lot of mental gymnastics to convince yourself that it doesn't need to change. It's kind of like building a highway through a city. A ton of time was spent building streets and parks and office-buildings and other infrastructure, and it all works pretty well. But now you want people to be able to get around *faster* using a highway. So now you have to somehow decide the best way to do that without completely disrupting the already functioning city below. A bunch of stuff is going to get destroyed, and in the process a lot of things won't work for a little while, and it takes a long time and costs a lot of money.
+
+So you sometimes end up with situations like in Washington, DC, where they started to connect I95 through downtown but only got halfway through. And in software a lot of times you end up with these kind of workaround solutions, created so that you don't have to completely destroy what you started with. And you know you could have done it better. And you hate your software because you know what it could have been.
