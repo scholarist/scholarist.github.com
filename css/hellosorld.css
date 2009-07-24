@@ -48,14 +48,17 @@ body {
   margin: 15px 0 0 15px;
   padding: 15px;
 }
-.caption {
-  font-size: .7em;
-  text-align: center;
+#pic {
+  float: right;
+  padding: 0 0 5px 5px;
 }
 .blurb-heading {
   font-size: 1.1em;
   margin: 0;
   padding: 15px 0 5px 0;
+}
+.top-heading {
+  padding-top: 0;
 }
 #content {
   float: left;
