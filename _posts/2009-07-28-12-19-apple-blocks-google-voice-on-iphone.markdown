@@ -26,5 +26,5 @@ you bought it? When your phone is actually just a handheld computer why should t
 
 If you're not already on Android, your next phone should be.
 
-[1]:/tech/2009/07/19/android-%2B-google-voice-%3D-(almost)-free-mobile-plan.html
+[1]:/tech/2009/07/19/android-plus-google-voice-equals-(almost)-free-mobile-plan.html
 [2]:http://www.techcrunch.com/2009/07/27/apple-is-growing-rotten-to-the-core-and-its-likely-atts-fault/
