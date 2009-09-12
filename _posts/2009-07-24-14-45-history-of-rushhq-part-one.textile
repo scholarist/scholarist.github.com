@@ -26,4 +26,4 @@ And then things kind of died. David, Rick and I stopped communicating as frequen
 
 Thus the stage was set for us to build the software ourselves. I pitched the idea pretty hard to David and Rick who eventually agreed that it was probably the best way forward. Rick had a full-time marketing job and wasn't interested in programming anyway, David still had a full-time job with Theodore at Eduvo, and I was still a full-time economics PhD student trying to finish my coursework, write my second-year paper and pass two general qualifying exams. So we had a little bit of a problem: nobody actually had any time to write the software.
 
-Part II coming soon...
+"&raquo; Continue to part II":/personal/2009/09/10/4-42-history-of-rushhq-part-two.html
