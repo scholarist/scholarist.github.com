@@ -49,6 +49,7 @@ people want to build a service they believe in.
 
 There will be users who are angry about having to pay if you start to charge for your service. But I
 think those users already valued your service at less than the price you've put on it, and they'd be
-even less likely to pay up front.
+even less likely to pay up front. I have no data on this, nor can I see a plausible way of collecting
+any. But if you have anecdotal evidence one way or the other I'd love to hear about it in the comments.
 
 [1]:http://en.wikipedia.org/wiki/Freemium
