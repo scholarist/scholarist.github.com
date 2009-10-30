@@ -10,7 +10,7 @@ comfortable.
 I read a lot of stories about other founders and startups going through times of great stress
 and uncertainty. They wonder if they'll get funded. Or, if they're already funded, they don't
 know whether their next funding round will go through. If they are bootstrapping, they don't know
-whether they'll have a product that can cover costsearly enough to keep going. They worry that
+whether they'll have a product that can cover costs early enough to keep going. They worry that
 users won't like a new feature. They worry that they can't develop new features faster than their
 competitors. The list is long.
 
