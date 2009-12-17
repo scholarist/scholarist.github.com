@@ -4,7 +4,7 @@ category: personal
 title: "Submitting to Social Networks (results)"
 ---
 
-This is a follow up to my post "here":http://hellosorld.com/personal/2009/07/23/submitting-to-social-networks.html. Basically I've been fooling around with Google Analytics and wanted to post some numbers.
+This is a follow up to my post "here":/personal/2009/07/23/submitting-to-social-networks.html. Basically I've been fooling around with Google Analytics and wanted to post some numbers.
 
 These are the referral numbers I got after submitting links to this blog on three social network sites:
 
