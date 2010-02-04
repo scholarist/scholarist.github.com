@@ -48,6 +48,9 @@ body {
   margin: 15px 0 0 15px;
   padding: 15px;
 }
+#sidebar a:visited {
+  color: #314B9D;
+}
 #pic {
   float: right;
   padding: 0 0 5px 5px;
