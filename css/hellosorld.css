@@ -84,6 +84,7 @@ body {
 #footer {
   clear: both;
   text-align: center;
+  margin: 5px;
 }
 a {
 color: #314B9D;
