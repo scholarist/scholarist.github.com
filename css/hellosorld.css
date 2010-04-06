@@ -45,7 +45,7 @@ body {
   float: right;
   border: solid 1px #606060;
   background: #C9C9C9;
-  margin: 15px 0 0 15px;
+  margin: 15px 0 0 5px;
   padding: 15px;
 }
 #sidebar a:visited {
@@ -70,8 +70,8 @@ body {
 }
 #content {
   float: left;
-  width: 499px;
-  margin: 15px 10px 0 0;
+  width: 518px;
+  margin: 15px 5px 0 0;
 }
 .content-heading {
   font-size: 1.3em;
