@@ -73,6 +73,9 @@ body {
   width: 518px;
   margin: 15px 5px 0 0;
 }
+#content ul {
+  list-style-type: disc;
+}
 .content-heading {
   font-size: 1.3em;
   margin: 0;

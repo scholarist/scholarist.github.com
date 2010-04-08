@@ -16,4 +16,4 @@ Also I'll be attempting to build [Google's Chrome OS][5] later so look for a wri
 [2]:http://blogmaverick.com/2010/04/06/why-you-should-never-listen-to-your-customers/
 [3]:http://domaingroovy.com/
 [4]:http://www.nxdom.com/
-[5]:http://hellosorld.com/google/tech/2009/12/26/googles-chrome-os-is-a-commitment-mechanism.html
+[5]:/google/tech/2009/12/26/googles-chrome-os-is-a-commitment-mechanism.html
