@@ -4,6 +4,12 @@ category: tech
 title: "Android + Google Voice = (almost) Free Mobile Plan"
 ---
 
+**UPDATE**: Here is a great resource for [setting up Google Voice with VoIP services][1] to
+eliminate your mobile calling plan altogether. Of course you'll need a data plan for IP connectivity, but those are much
+cheaper than conventional minute-based calling plans.
+
+***
+
 **UPDATE**: T-Mobile has discontinued the plan referenced in this article. The cheapest T-Mobile plan
 with MyFaves is currently $39.99 for 300 whenever minutes and unlimited nights and weekends. With
 an unlimited data plan at $24.99 the total bill would come to about $65 plus a little extra for taxes.
@@ -45,3 +51,5 @@ per month. If I was paying for unlimited texting I would have saved more, since 
 anymore either. Of course I still need the unlimited data plan at $24.99, but I was already paying for that.
 
 I highly recommend this setup to anyone considering a new smartphone.
+
+[1]:http://docs.google.com/Doc?docid=0Ae8glDUXDsh9ZGR2eG43cjRfMzNkOTM4ZjNjeA&hl=en
