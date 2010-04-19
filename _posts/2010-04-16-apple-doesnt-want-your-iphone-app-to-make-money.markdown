@@ -15,7 +15,7 @@ impression that giant pots of gold await talented app developers that they are
 willing to put up with abuses like [poorly-explained app rejections][4], [hypocritical "policy" enforcement][5] and, most
 recently, small but [significant changes][6] to the iPhone Developer Program License Agreement.
 
-And why wouldn't Apple want every developer to believe he or she can get rich with an app in the App Store. Apple 
+And why wouldn't Apple want every developer to believe he or she can get rich with an app in the App Store? Apple 
 absolutely needs developers to continue producing apps for the iPhone, iPod Touch and now the iPad, because the
 strength of Apple's device sales depends critically on the strength of the App Store, and Apple makes its money
 selling devices. The importance of the App Store is evident in Apple's primary iPhone ad slogan,
