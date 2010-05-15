@@ -24,8 +24,9 @@ And based on information like [this][6], it's hard to deny that the App Store is
 Most apps are free or cost 99 cents regardless of quality or development cost.
 
 Hence we see, at best, that Apple really doesn't care whether or not your iPhone app makes any money. As long as it
-is good and inexpensive, Apple is happy to sell it for you (at cost though -- the 30% Apple takes from each app sale
-is meant to cover the overhead of running the App Store). As an app developer, your incentives and Apple's are not at
+is good and inexpensive, Apple is happy to sell it for you since they reap most of the rewards. (Granted Apple takes
+30% from each app sale, but they've stated that the fees cover the overhead of running the App Store and are not a
+significant source of profits). But as an app developer, your incentives and Apple's are not at
 all aligned.
 
 Now don't get me wrong, Apple has every right to pursue what's best for itself according to its incentives. But let's
