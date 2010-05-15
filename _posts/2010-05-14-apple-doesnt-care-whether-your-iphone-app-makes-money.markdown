@@ -4,7 +4,7 @@ category: tech
 title: "Apple Doesn't Care Whether Your iPhone App Makes Money"
 ---
 
-About a month ago I wrote an article about [Apple and iPhone apps], claiming that since the iPhone and iPhone apps
+About a month ago I wrote an article about [Apple and iPhone apps][1], claiming that since the iPhone and iPhone apps
 are complementary products, Apple has an incentive to keep apps cheap in order to sell more phones. A lot of people
 thought I was wrong both here and on [Hacker News][2]. So in an effort to redeem what was perhaps a poorly-written
 thesis, I present this update based on the discussions that followed.
