@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>"Hello Sorld!", a weblog by Andrew Benton</title>
+  <link href="http://hellosorld.com/atom.xml" rel="self"/>
+  <link href="http://hellosorld.com/"/>
+  <updated>2011-09-30T18:28:20+00:00</updated>
+  <id>http://hellosorld.com/</id>
+  <author>
+    <name>Andrew Benton</name>
+  </author>
+  
+    <entry>
+      <title>second post</title>
+      <link href="http://hellosorld.com/2011/08/17/second-post.html"/>
+      <updated>2011-08-17T00:00:00+00:00</updated>
+      <id>http://hellosorld.com/2011/08/17/second-post</id>
+      <content type="html">&lt;p&gt;This is my second post, what I&amp;#8217;m using with the new &lt;em&gt;jekyll&lt;/em&gt; toy.&lt;/p&gt;
+
+&lt;p&gt;This is the &lt;strong&gt;second&lt;/strong&gt; paragraph.&lt;/p&gt;
+
+&lt;p&gt;See me online at &lt;a href='http://scholarist.livejournal.com'&gt;scholarist&lt;/a&gt;&lt;/p&gt;</content>
+    </entry>
+  
+    <entry>
+      <title>second post</title>
+      <link href="http://hellosorld.com/2011/06/11/first-post.html"/>
+      <updated>2011-06-11T00:00:00+00:00</updated>
+      <id>http://hellosorld.com/2011/06/11/first-post</id>
+      <content type="html">&lt;p&gt;This is my second post, what I&amp;#8217;m using with the new &lt;em&gt;jekyll&lt;/em&gt; toy.&lt;/p&gt;
+
+&lt;p&gt;This is the &lt;strong&gt;second&lt;/strong&gt; paragraph.&lt;/p&gt;
+
+&lt;p&gt;See me online at &lt;a href='http://scholarist.livejournal.com'&gt;scholarist&lt;/a&gt;&lt;/p&gt;</content>
+    </entry>
+  
+</feed>
