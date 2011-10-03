@@ -1,0 +1,1516 @@
+diff --git a/_posts/2009-07-16-why-i-quit-my-phd-in-economics.textile b/_posts/2009-07-16-why-i-quit-my-phd-in-economics.textile
+deleted file mode 100644
+index cf703e0..0000000
+--- a/_posts/2009-07-16-why-i-quit-my-phd-in-economics.textile
++++ /dev/null
+@@ -1,29 +0,0 @@
+----
+-layout: post
+-category: personal
+-sub-title: 
+----
+-
+-A lot of people ask me what happened at Princeton that made me want to leave the PhD program in economics there. The short answer is that I decided I didn't want to be an economist.
+-
+-The long answer is this:
+-
+-A PhD in any field is not something one should take lightly. It requires a lot of dedication to an (often narrow) idea, and not many people will care enough to try to understand what you are saying. This may seem obvious, but I guess it wasn't to me as I applied to graduate school.
+-
+-I applied to programs in economics perhaps foolishly thinking that I could put my love of math to use on problems that might actually impact people's lives. (Also I knew I didn't have the dedication or talent to pursue a PhD in mathematics, a common trait among econ PhDs). But I pretty quickly realized that producing something that the world could use to improve itself would be hard.
+-
+-Now don't get me wrong, I enjoy working on hard problems, as long as there's a reasonable expectation of success. But producing good economic work is a highly creative endeavor, and one at which I don't think I'm particularly skilled. I think that was probably my biggest realization; you can be very smart, do well in college, learn quickly, etc., but if you can't think creatively in your field you will have a hard time completing a PhD and pursuing a career as an academic.
+-
+-So I started to see things this way: in the distribution of creative economic thinkers, I am somewhere near the middle. Thus the probability of me producing some great economic work that changes the world is pretty low. The probability of me becoming an average economist is very high. And I don't like to think about what my life as an average economist would be.
+-
+-But Bill Easterly pushed me over the top. For those of you who don't know, Bill Easterly is an economist who has come out strongly against providing unconstrained aid to the developing world because the data shows that it doesn't work. Check out his wikipedia page <a href="http://en.wikipedia.org/wiki/William_Easterly" target="_blank">here</a> or his book <a href="http://www.amazon.com/White-Mans-Burden-Efforts-Little/dp/0143038826/" target="_blank">here</a>. I went to a talk he gave at Columbia when I was at Princeton. The gist of the talk was this: throwing aid at governments is useless more often than not, because there's too often no accountability to the donors and almost always no feedback loop to gather input from the citizens the aid is intended to help. He recommends supporting free enterprise and individual entrepreneurs and tearing down barriers to competition in developing countries, since a free market tends to automatically have accountability and feedback built in.
+-
+-So how is this related? Basically I began to see myself and a lot of other economists as falling into a "let's throw more money at the problem" kind of solution to economic issues. Except economists rarely throw money. They do spend a lot of time thinking about stuff and writing though. But why spend all this time on coming up with (for me) mediocre ideas when you could be out actually <i>doing</i> something? You could be out creating something that people will use. You could be adding value to the world, helping people live their lives more efficiently. Bill Easterly suggests supporting entrepreneurs in the developing world, so why not become an entrepreneur yourself and plug yourself into the accountability and feedback loop that the free market provides?
+-
+-This isn't meant to be a criticism of all academic economists though, and especially not those at Princeton. I have a lot of respect for those economists who are able to think incredibly creatively about the problems we face and who develop the tools to try to understand and solve them. I just know now that I'm not one of them.
+-
+-However I have absolutely no regrets concerning my time at Princeton. I finished all my coursework, wrote my second-year paper, and passed both of my general exams. I left with a Master's degree and I would do it all again if I had to choose. I learned a ton, and the economic concepts and jargon that I picked up have proven incredibly useful in thinking about other problems. I presume that will continue to hold true.
+-
+-The one thing that really sticks with me from economics is the overwhelming emphasis on optimization and efficiency. When applied to real-world problems rather than abstractions these ideas are very powerful, if not quite as clean. So what am I doing now? Writing software and thinking about how to leverage technology to improve the efficiency of the world, starting small of course.
+-
+-I get the feeling that I can really be creative and useful through software, and I don't think I'm wrong this time.
+diff --git a/_posts/2009-07-19-android-plus-google-voice-equals-(almost)-free-mobile-plan.markdown b/_posts/2009-07-19-android-plus-google-voice-equals-(almost)-free-mobile-plan.markdown
+deleted file mode 100644
+index 3cf869c..0000000
+--- a/_posts/2009-07-19-android-plus-google-voice-equals-(almost)-free-mobile-plan.markdown
++++ /dev/null
+@@ -1,55 +0,0 @@
+----
+-layout: post
+-category: tech
+-title: "Android + Google Voice = (almost) Free Mobile Plan"
+----
+-
+-**UPDATE**: Here is a great resource for [setting up Google Voice with VoIP services][1] to
+-eliminate your mobile calling plan altogether. Of course you'll need a data plan for IP connectivity, but those are much
+-cheaper than conventional minute-based calling plans.
+-
+-***
+-
+-**UPDATE**: T-Mobile has discontinued the plan referenced in this article. The cheapest T-Mobile plan
+-with MyFaves is currently $39.99 for 300 whenever minutes and unlimited nights and weekends. With
+-an unlimited data plan at $24.99 the total bill would come to about $65 plus a little extra for taxes.
+-That's still pretty good for an unlimited calling and data plan, but not as great as I previously advertised.
+-
+-***
+-
+-I have an Android phone. About two weeks ago I got an invite to Google Voice. Together they reduce
+-my mobile phone bill by $45 per month.
+-
+-If you haven't heard of Google Voice you should check it out
+-<a href="http://www.google.com/googlevoice/about.html" target="_blank">here</a> and sign up for
+-an invite. Basically Google gives you a phone number (that you can choose) that will ring any
+-(or all) of your phones when called. There are a bunch of other features like one location to check
+-all of your voicemail, transcription of voicemail into text (still very much a work in progress),
+-and <a href="http://www.google.com/support/voice/bin/answer.py?answer=141925" target="_blank">super-cheap
+-international rates</a>. Oh and did I mention all domestic calls and sms messages through Google
+-Voice are free?
+-
+-Here's how it works (note that this is not VoIP): when someone calls your GV number, GV rings up whichever phones you've
+-specified and connects the call. The call that you receive actually comes from your GV number,
+-but they've sorted it out so that caller id still works seamlessly. This is the potentially annoying
+-part: when you want to place a call through GV, you have to start it within the online GV system.
+-The same is true for sms messages. For calls, the GV system dials the number you specify and then
+-rings up your phone as well to connect the call. Again the call you receive is from your GV number,
+-and the recipient sees your GV number as the source.
+-
+-Using the above system I would probably never place a call through Google Voice. But of course Google
+-decided to make my life awesome by introducing a GV mobile phone application for Android phones
+-that integrates GV with your phone's software and does all of the above for you automatically. I
+-can now just place calls like I always have from my mobile phone and GV takes over.
+-
+-So how does this save me money? If you were reading closely you'll have noticed that with GV all
+-of the calls I make are either to or from one number: my GV number. T-mobile, my cell carrier, offers
+-plans with a feature called myFaves where you can select five numbers for which all of your calls are
+-free. All I had to do was get the cheapest plan that gave me myFaves and make my GV number one of them.
+-This plan costs $9.99, whereas I was paying $49.99 before. With reduced taxes this saves me about $45
+-per month. If I was paying for unlimited texting I would have saved more, since I don't need an sms plan
+-anymore either. Of course I still need the unlimited data plan at $24.99, but I was already paying for that.
+-
+-I highly recommend this setup to anyone considering a new smartphone.
+-
+-[1]:http://docs.google.com/Doc?docid=0Ae8glDUXDsh9ZGR2eG43cjRfMzNkOTM4ZjNjeA&hl=en
+diff --git a/_posts/2009-07-22-on-hating-software.textile b/_posts/2009-07-22-on-hating-software.textile
+deleted file mode 100644
+index f6cf807..0000000
+--- a/_posts/2009-07-22-on-hating-software.textile
++++ /dev/null
+@@ -1,13 +0,0 @@
+----
+-layout: post
+-category: software
+-sub-title: 
+----
+-
+-<a href="http://www.codinghorror.com/blog/archives/001289.html" target="_blank">www.codinghorror.com/blog/archives/001289.html</a>
+-
+-Writing software makes you hate bad software since you generally have ideas about how it could have been done better. That doesn't necessarily mean you think your software is good though. It just means you end up hating your own software as well.
+-
+-The problem is that writing software is hard. And once you have something working you will do a lot of mental gymnastics to convince yourself that it doesn't need to change. It's kind of like building a highway through a city. A ton of time was spent building streets and parks and office-buildings and other infrastructure, and it all works pretty well. But now you want people to be able to get around *faster* using a highway. So now you have to somehow decide the best way to do that without completely disrupting the already functioning city below. A bunch of stuff is going to get destroyed, and in the process a lot of things won't work for a little while, and it takes a long time and costs a lot of money.
+-
+-So you sometimes end up with situations like in Washington, DC, where they started to connect I95 through downtown but only got halfway through. And in software a lot of times you end up with these kind of workaround solutions, created so that you don't have to completely destroy what you started with. And you know you could have done it better. And you hate your software because you know what it could have been.
+diff --git a/_posts/2009-07-22-the-joy-of-git.textile b/_posts/2009-07-22-the-joy-of-git.textile
+deleted file mode 100644
+index 7c60f9b..0000000
+--- a/_posts/2009-07-22-the-joy-of-git.textile
++++ /dev/null
+@@ -1,19 +0,0 @@
+----
+-layout: post
+-category: tech
+-sub-title: 
+----
+-
+-I've been fooling around a lot with Git recently and it totally blows Subversion out of the water.
+-
+-First, a little background. Both Git (git) and Subversion (svn) are "Version Control" or "Source Code Management" systems, which is software used by software developers to track changes to a project's source-code. A lot of times a project will contain hundreds if not thousands of separate source-code files that all depend on each other. If you have more than one developer working on a project of that magnitude it is a nightmare to keep track of the changes each is making and merge them together in a way that doesn't completely break the code. Some sort of version control system is absolutely necessary.
+-
+-When I started writing software in earnest about this time last year Subversion was still kind of the standard scm system. It was used to manage a lot of popular open-source software projects, including Ruby on Rails, which was the web-framework I was using at the time. Google also uses it to provide source-code hosting at code.google.com. So I jumped in.
+-
+-Subversion is great if you've got a little patience and haven't ever used scm before. It's probably great even if you haven't, given its popularity then and even now. The way it works is this: you set up a repository on a server that each developer can access. This becomes the central authoritative location for your project's files. Then each developer can "checkout" a copy of the code and work on it on her own, merging back (called "committing") only the changes she wants to when she's ready. Subversion handles the merge intelligently, and only bothers you when you try to commit something that interferes with another developer's change. Two developers can edit the same file, but as long as they don't edit the same individual lines of that file Subversion won't complain. There's obviously a lot of extra stuff you can do with it, but that's the basic idea.
+-
+-But then Linus Torvalds gave us Git. The idea with Git is distributed version control. Now instead of one single authoritative repository, each developer has his own local repository and commits changes to it. Each local repository carries the same weight as the central repository (if there is one). When a developer is ready to merge local changes with the central repository he just "pushes" his repository out to the central one. Everyone else can get his changes by "pulling" from the central repository once he's pushed. Again conflicts are handled intelligently, and in fact the ease of handling conflict resolution in Git is one of it's major benefits over Subversion.
+-
+-Now this probably doesn't sound too different from the Subversion description, because it's not. The real benefit of Git comes from being able to share code quickly and easily. With Subversion it's a hassle to set up an open-source repository. You have to worry about commit permissions and access control. It's also pretty annoying to set up a repository in general with Subversion compared to Git. There are separate commands for repository administration and repository use. Telling Subversion which files to ignore is a multi-step exercise involving still more commands. And Subversion gets easily confused when you delete or rename a file without telling it. Git handles all of these things so smoothly that it's hard to believe I had to worry so much about them before with Subversion.
+-
+-So I've been converted. So has Ruby on Rails apparently, because it is now managed by Git. And GitHub (<a href="http://github.com" target="_blank">github.com</a>) has quickly become one of the most popular code-sharing sites on the internet. Sign up for a GitHub account and give Git a try if you haven't already. I think you'll agree that it's a joy to use.
+diff --git a/_posts/2009-07-23-submitting-to-social-networks.textile b/_posts/2009-07-23-submitting-to-social-networks.textile
+deleted file mode 100644
+index fff42d1..0000000
+--- a/_posts/2009-07-23-submitting-to-social-networks.textile
++++ /dev/null
+@@ -1,12 +0,0 @@
+----
+-layout: post
+-category: personal
+----
+-
+-As a bit of an experiment I just submitted my post about Android and Google Voice to Digg (<a href="http://digg.com" target="_blank">digg.com</a>) under Technology -> Gadgets. I also just put out my first Facebook status update ever, announcing this blog and providing a link. And just for fun I sent out my first tweet ever about the Google Voice post as well (well second tweet, technically, if you count my original tweet when I signed up).
+-
+-I expect Facebook to win in terms of driving traffic here. I'm not exactly sure but I think the people who will actually get my status update on Facebook are people in my network of friends. Those people presumably care more about what I have to say than people perusing the gadget category on Digg. And I only have nine followers on Twitter, almost all of which are spammers I think. I know one is @icanhascheezburger, i.e. the lolcats twitter spambot (see <a href="http://en.wikipedia.org/wiki/Lolcat" target="_blank">this</a> for an explanation of lolcats). They started to follow me after I started following them when I first signed up.
+-
+-Anyway if Facebook doesn't win I'll be shocked. I'll be back with numbers and results late late tonight or tomorrow morning.
+-
+-*update*: results are "here":/personal/2009/07/24/10-15-submitting-to-social-networks-(results).html.
+diff --git a/_posts/2009-07-24-10-15-submitting-to-social-networks-(results).textile b/_posts/2009-07-24-10-15-submitting-to-social-networks-(results).textile
+deleted file mode 100644
+index 0110d07..0000000
+--- a/_posts/2009-07-24-10-15-submitting-to-social-networks-(results).textile
++++ /dev/null
+@@ -1,18 +0,0 @@
+----
+-layout: post
+-category: personal
+-title: "Submitting to Social Networks (results)"
+----
+-
+-This is a follow up to my post "here":/personal/2009/07/23/submitting-to-social-networks.html. Basically I've been fooling around with Google Analytics and wanted to post some numbers.
+-
+-These are the referral numbers I got after submitting links to this blog on three social network sites:
+-
+-|_<{padding:0 50px 0 0}.site|_<{padding:0 10px 0 0}.referrals|_<{padding:0 10px 0 0}.pages/visit|_<{padding:0 10px 0 0}.avg time here|
+-|Facebook|14|3.64|3'58"|
+-|Twitter|2|2.5|2'09"|
+-|Digg|2|1|0'0"|
+-
+-So not only did Facebook provide the most referrals but the highest quality referrals as well. People coming to the site from Digg apparently left immediately. Surprisingly enough a couple people from Twitter found the blog and actually stuck around. And one of them was from Germany.
+-
+-I'll probably post more GA numbers here soon since I'm spending a lot of time looking at them...
+diff --git a/_posts/2009-07-24-14-45-history-of-rushhq-part-one.textile b/_posts/2009-07-24-14-45-history-of-rushhq-part-one.textile
+deleted file mode 100644
+index 0012161..0000000
+--- a/_posts/2009-07-24-14-45-history-of-rushhq-part-one.textile
++++ /dev/null
+@@ -1,29 +0,0 @@
+----
+-layout: post
+-category: personal
+-title: "History of RushHQ (part I)"
+----
+-
+-This is the first of what will be a multi-part series of posts about RushHQ, the fraternity web-software project and company I've been working on building for the last year and a half. I plan to make these pretty detailed accounts to the best of my recollection. I'm also planning to write a series of posts detailing the current changes to the software that I'm making. Those posts will likely be painfully boring to most people so I'll try to keep this series at a more interesting non-software level.
+-
+-h4. The Beginning
+-
+-In Late January of 2008 David Kahn and Rick Fox, two friends of mine from Penn, approached me about starting a small software company. The three of us were members of the Sigma Alpha Mu fraternity at Penn, where Both Rick and David were recruitment chairs in consecutive years, and I had served as treasurer. They wanted to develop an online software product that would help fraternity chapters manage the recruitment of new members each year. We had a pretty good idea of where the pain-points and bottlenecks in the recruitment process existed, so we felt that it was really just a matter of executing and building out a product with the features we would have wanted. Rick and David both had marketing degrees from Wharton, so once we had the product built it would be simple to sell (see upcoming part IX on how this turned out).
+-
+-At the time David was working with a small software startup called Eduvo that had developed a web-based product targeted at International Baccalaureate high schools. Eduvo's product already had a lot of the kinds of features we wanted to include in our recruitment software, so David was hoping to use the code they had developed to spin-off this fraternity idea. The initial plan was to license the existing source-code from Eduvo, and hire Eduvo's programmer to re-mold it slightly for our purposes. This would have likely cost a few thousand dollars, which is where I came in handy, since I had a bunch of money saved up from playing poker.
+-
+-So during this very early stage there were a lot of discussions about how to proceed. We discussed trying to license the Eduvo code for equity in our (still non-existent) company rather than paying cash. We discussed how we might offer equity to the programmer we would hire. We discussed how we would split equity ourselves. But none of us really knew anything about how to structure a startup so a lot of that talk looks very silly in retrospect.
+-
+-In the midst of all these discussions some actual work did get done. In early February we started to put together a list of fraternity chapters and contact info. Rick and David worked for a bit on a market research survey involving something called "the four C's" of consumer research. It was decided that the official company song would be "Fly by Night." We checked out some other online products that seemed to be offering similar features, and of course decided that ours was different and would be better. We tried to come up with a name for the product and the company based on available .com domains. And we started negotiating with Theodore, Eduvo's founder, about how to license the source code.
+-
+-It became clear that he wanted cash (naturally), but we wanted to wait until we had some interest from fraternities before throwing a bunch of money into this project. At least I did, and I was the one with the money. My doubts at the time mostly had to do with ignorance. That is, I didn't know enough about web-based software (or software in general) to adequately judge the quality of what we would be getting, and therefore I couldn't determine a fair price. I had taught myself HTML back in 1998 and had taken some algorithms and data-structures classes in C++ and Java as a high school student and a college freshman, but I hadn't thought about programming or software since 2003. Nor had I ever tried to sell anything, and I wasn't sure this particular product would sell.
+-
+-I remember beginning to think that we should write the software ourselves. It couldn't be that hard could it? And then we would know exactly what we were getting and we wouldn't have to wait for some programmer we hired (possibly working only for equity) to make changes or add features. Luckily we saw a way forward that didn't preclude that possibility. We would start to mock up screen-shots of the site based on Eduvo and pitch the idea to Sigma Alpha Mu's national office. We could even put it up on the web and give people non-functional demonstrations to generate interest. In the best case SAM's national office would pay us to develop the product in exchange for a lifetime license, and we could then license the code from Eduvo and hire a programmer to tweak it.
+-
+-By late February David had already put together a set of screen-shots that mocked up what the product might eventually look like. We had decided on the name RushHQ after rejecting SeekGreek and RushPlus so I went about putting up the screen shots at rushhq.com. I even spent a bunch of time writing a simple MySQL database-backed authentication system in php so that we could set up demo accounts and control access. Rick was working his contacts at the SAM national office and was making progress generating interest. And by March 10th we had a full demo up on the web. Nothing worked of course, but it was a big step.
+-
+-And then things kind of died. David, Rick and I stopped communicating as frequently. Conversations with the SAM national office were ongoing, but not getting anywhere fast. Finally on April 15th Andy Houston at SAM national confirmed that they were not interested.
+-
+-Thus the stage was set for us to build the software ourselves. I pitched the idea pretty hard to David and Rick who eventually agreed that it was probably the best way forward. Rick had a full-time marketing job and wasn't interested in programming anyway, David still had a full-time job with Theodore at Eduvo, and I was still a full-time economics PhD student trying to finish my coursework, write my second-year paper and pass two general qualifying exams. So we had a little bit of a problem: nobody actually had any time to write the software.
+-
+-"&raquo; Continue to part II":/personal/2009/09/10/4-42-history-of-rushhq-part-two.html
+diff --git a/_posts/2009-07-27-9-33-writing-rushhq-2-0-part-I.textile b/_posts/2009-07-27-9-33-writing-rushhq-2-0-part-I.textile
+deleted file mode 100644
+index 43bc50a..0000000
+--- a/_posts/2009-07-27-9-33-writing-rushhq-2-0-part-I.textile
++++ /dev/null
+@@ -1,37 +0,0 @@
+----
+-layout: post
+-title: "Writing RushHQ 2.0 (part I)"
+-category: personal
+----
+-
+-RushHQ is primarily written in Ruby using the Rails framework, with a little javascript on top. RushHQ was the first Ruby on Rails application that David and I built, and we did a lot of things wrong (in retrospect). Thus I am rewriting most of the RushHQ codebase in order to make it cleaner and more extensible. This has the dual benefits of vastly increasing the ease of feature changes and updates, as well as making the actual thought of programming for RushHQ tolerable again.
+-
+-h4. Switching SCMs
+-
+-First I moved a copy of the project code into a new git repository. This was easy (thank you git!). I just made a local copy of the project's working tree, initialized a new git repository and added and committed everything. On the server I initialized an empty bare git repository and just pushed the local repository to the remote one. Done.
+-
+-h4. Switching Database Engines
+-
+-When we wrote RushHQ originally we used the RoR default SQLite database engine. SQLite has the advantage of being very easy to work with because it's file-based. There's no need to setup and administer a database server so you can get up and running right away without any hassle. Thus it's great for development work. I don't think it's that great in a production environment. Dealing with named files to store our databases made me nervous. What if I acidentally renamed one or moved one or deleted one while I was trying to back them up? If someone managed to gain access to our server he could just take the data. And there isn't any way that I know of to set user-level permissions for SQL statements on SQLite databases, although admittedly I didn't look too hard. So there isn't the extra layer of security that a database server gives you.
+-
+-So I decided to move our datastore over to MySQL. This required installing the mysql-client and mysql-server plus some development headers on our production system, installing the ruby-mysql bindings and a quick relearning of the mysqladmin commands to set up and secure the MySQL server.
+-
+-h4. Setting up a Staging Deployment
+-
+-To test out all the nifty new features of RushHQ before pushing them to the main rushhq.com deployment I wanted to set up a staging deployment. I set up a subdomain and configured Apache to use Passenger rather than Mongrel, so all I had to do was point the document root in Apache to the /public directory of my deployed code. Ok I also had to fool around with permissions on that directory until I stopped seeing "403 Forbidden" from Apache every time.
+-
+-All of the above tasks should have taken me less than an hour but of course extra issues crept in, like the fact that our ssl certificate is only good for rushhq.com and www.rushhq.com domains. So I had to disable it for the staging deployment.
+-
+-h4. The Real Work Begins
+-
+-We made what I consider now to be a poor database design choice early-on while developing rushhq. We decided that each user would belong to one (and only one) fraternity. Users did not exist as individuals outside of their fraternity. This probably seems fine logically since you can't really belong to more than one fraternity at once. But it led us to store each fraternity's data in a separate database. That includes all the user data for each fraternity's members, which would normally include authentication credentials like a username and password.
+-
+-If you're not shocked yet I'll explain a little further. With user data spread over tons of databases, how do you look up a username and password when someone comes to rushhq.com and wants to log in? There's no way to know which database to search for that information ahead of time. So you could just step through each database looking through all the user data until you find a match, but that's gross and pretty inefficient. So we decided on something potentially more gross but more efficient: we set up another database to house all information that we might need to look up globally. And since we couldn't (or at least didn't want to try too hard to) do an SQL JOIN accross databases in order to return the rest of a user's data after a successful authentication, we ended up storing some redundant information in the global database.
+-
+-Now you should be sufficiently shocked. Yes I know that eliminating redundancy is crucial to data normalization to make maintaining data integrity easy. And to be honest I don't remember all the justifications we had, but one was ease of data restoration. This design combined with SQLite meant we only had to drop in a backup of a fraternity's database file to fully resotre its data if something went wrong. I also remember that we wanted to eliminate potential scope issues, like accidentally showing a fraternity recruits from a different chapter or allowing a fraternity to delete users from a competing chapter.
+-
+-The price paid for those conveniences was large in retrospect. We had to write a lot of extra code to switch database connections on the fly in order to create and update information in more than one location. We sometimes had to perform two identical sets of database operations (one on the global database, one on a fraternity's individual database) which is really bad. In general trying to maintain code like that was a nightmare. Things would break a lot of the time. So I would make a very different decision now to stick with the more traditional single database model.
+-
+-And that's what I'm doing; rewriting RushHQ on top of a single database model. It's such a fundamental change that I'm going to be rewriting basically all of the RushHQ code. But not from scratch at least. A lot can be tweaked and reused rather than discarded.
+-
+-My next post will get into a little more detail about specific data modeling choices now that RushHQ is free from the tyranny of multiple databases.
+diff --git a/_posts/2009-07-28-12-19-apple-blocks-google-voice-on-iphone.markdown b/_posts/2009-07-28-12-19-apple-blocks-google-voice-on-iphone.markdown
+deleted file mode 100644
+index ee1ff7f..0000000
+--- a/_posts/2009-07-28-12-19-apple-blocks-google-voice-on-iphone.markdown
++++ /dev/null
+@@ -1,30 +0,0 @@
+----
+-layout: post
+-category: tech
+-title: "Apple Blocks Google Voice For The iPhone"
+----
+-
+-After writing [this post][1] about exploiting Google's seamless integration of Google Voice into the Android platform
+-to reduce my cell bill, a few people asked me if something similar could be done
+-with the iPhone. The answer was a tentative "yes, eventually" since Google expected to release
+-a Google Voice application for the iPhone in the near future.
+-
+-Well I have some bad news. Yesterday the native iPhone Google Voice application was rejected from the iPhone app
+-store supposedly because it duplicates features of the iPhone. You can read all the details on TechCruhch
+-[here][2].
+-
+-It looks a lot like AT&T is afraid of Google Voice eating into revenues from voice and sms plans,
+-and it should be. But I find it hard to believe that AT&T could exert enough pressure on Apple to
+-get this application blocked entirely against Apple's will. Especially after Apple Executive VP
+-Phil Schiller apparently personally gave the GV app the go-ahead in April. So something a little weird
+-is going on here.
+-
+-But anyway it's a big loss for iPhone users. And another reason not to own an iPhone. Apple still retains
+-a ridiculous level of control over what you can and can't do with the device once you get it. Would you buy
+-a computer if the manufacturer could prevent you from installing, say Microsoft Word, even years after
+-you bought it? When your phone is actually just a handheld computer why should the decision be any different?
+-
+-If you're not already on Android, your next phone should be.
+-
+-[1]:/tech/2009/07/19/android-plus-google-voice-equals-(almost)-free-mobile-plan.html
+-[2]:http://www.techcrunch.com/2009/07/27/apple-is-growing-rotten-to-the-core-and-its-likely-atts-fault/
+diff --git a/_posts/2009-07-29-4-48-more-on-apple-vs-google.markdown b/_posts/2009-07-29-4-48-more-on-apple-vs-google.markdown
+deleted file mode 100644
+index ec237db..0000000
+--- a/_posts/2009-07-29-4-48-more-on-apple-vs-google.markdown
++++ /dev/null
+@@ -1,51 +0,0 @@
+----
+-layout: post
+-categories:
+-- tech
+-- mobile
+-- google
+-- apple
+-title: "More On Apple vs. Google Voice"
+----
+-
+-So I read another depressing account of what exactly happened with Apple's rejection of Google
+-Voice and, a couple weeks earlier, Google Latitude:
+-
+-<http://gizmodo.com/5325539/apples-chickenshit-approval-process-has-gone-too-far>
+-
+-The important contradictions are these:
+-
+->Yet here we are, Apple has rejected not one, but two Google apps that would deliver major new features
+->to the iPhone, for reasons that are so obviously tripe it's insulting to even our non-exceptional
+->intelligence. A Google Latitude app would confuse us? _Really?_ Because it would "use Google to serve
+->maps tiles"? Wait. Isn't one of iPhone 3.0's major new features that it can use Google Maps inside of
+->other applications? So like _every_ app can use Google to serve maps tiles. I admit, though, Latitude
+->is a really big word. What does it even mean? That is pretty confusing. Maybe they should call it, like,
+->Google Stalker.
+-
+->What happened with Google Voice is worse. Google didn't elaborate on the reason Apple gave for rejecting
+->its official Google Voice app six weeks ago—and presumably, Google had more success wringing it out of Apple
+->than most developers. Hours before Google broke the news, the developer of GV Mobile—a solid third-party app
+->for Google Voice—said that it was being pulled from the App Store for "duplicating iPhone features." Then
+->every other Google Voice application was silently killed too. Even though, reportedly, Apple's Phil Schiller
+->personally apologized when GV Mobile initially ran into problems getting approved months ago, and it'd been
+->sitting pretty in the store since then. Oh, and there are tons of other apps that duplicate the functions of
+->dialing and sending text messages.
+-
+->And, for whatever reason,
+->AT&T's fear is about Google Voice _on the iPhone_, since the app is available for
+->BlackBerry on their network.
+-
+-Apparently AT&T claim that they are not involved in the application approval process, so they can't speak
+-to this issue. I guess that's to be expected though, even if they were involved somehow.
+-
+-So as I suggested before this looks like Apple hating on Google for some reason. I don't have a clue why though.
+-The article points out that Google gave the iPhone voice search and Maps and YouTube. Apple can't possibly
+-see Google's Chrome OS as a threat worthy of retaliation, since Chrome OS is meant for netbooks and Apple
+-doesn't compete in the netbook market (in fact, Apple thinks netbooks are stupid. See [here][1]). Unless
+-Apple is planning a major move toward building its own telephone network I don't see how this makes sense.
+-
+-Anyway I'll repeat what I said yesterday; why buy a computer when the manufacturer can control what you
+-install, supposedly for your own good? I'll be sticking with Android for a long time...
+-
+-[1]:http://www.engadget.com/2009/04/22/apple-reports-best-ever-march-quarter-with-a-1-21b-profit-call/
+diff --git a/_posts/2009-08-28-1-02-dont-write-checks.markdown b/_posts/2009-08-28-1-02-dont-write-checks.markdown
+deleted file mode 100644
+index 8cc3cc3..0000000
+--- a/_posts/2009-08-28-1-02-dont-write-checks.markdown
++++ /dev/null
+@@ -1,35 +0,0 @@
+----
+-layout: post
+-categories: personal
+-title: "Don't Write Checks"
+----
+-
+-Recently a friend discovered that somebody had forged checks with her account number on them
+-and was slowly drawing down her account. The checks looked identical to hers, with the same
+-routing and account numbers, but the name and address and signature belonged to someone else.
+-The total amount lost was only about $350, but that's still significant.
+-
+-Now obviously this is the bank's fault. They should be checking the name, address and signature
+-on each check and denying checks when any one of those doesn't match. And to be fair I think
+-the bank will refund the money eventually. But my friend had to file a claim with her bank's
+-insurance company, file a police report, get a bunch of things notarized, not to mention
+-set up a new account, switch direct deposit and get a new atm card. That's pretty annoying.
+-
+-The interesting part of all of this is that banks are apparently insured enough against check
+-fraud that it's not worth it to try to prevent it or even monitor for it, at least at relatively
+-small amounts of money. Let's presume that it costs a nontrivial amount of money to monitor for
+-check fraud. It's not too hard to see that from the bank's point of view, if the
+-probability of check fraud occuring is very low or if the cost to the bank (the bank's "co-pay")
+-on average is very low, then it doesn't make sense to monitor for check fraud. And in general
+-the amounts of money stolen through check fraud will be small, since it's nearly impossible
+-to make any significant purchase by check.
+-
+-Presuming insurance companies know the banks have no incentive to monitor check fraud means
+-the price of the insurance is higher than it otherwise would be. That cost is likely passed on to
+-consumers through higher account fees and/or lower interest paid. And you still have to deal
+-with all the hassle mentioned above. That's a double-whammy.
+-
+-So what can you do? Not a lot. But a good start would be to stop writing checks. If your
+-checking account is with a major bank it seems pretty easy to forge a check with your account
+-number on it, but at least you can make a potential fraudster work a little harder to find
+-out what your number is.
+diff --git a/_posts/2009-08-30-2-09-dont-use-debit-cards.markdown b/_posts/2009-08-30-2-09-dont-use-debit-cards.markdown
+deleted file mode 100644
+index a253807..0000000
+--- a/_posts/2009-08-30-2-09-dont-use-debit-cards.markdown
++++ /dev/null
+@@ -1,48 +0,0 @@
+----
+-layout: post
+-categories: personal
+-title: "Don't Use Debit Cards"
+----
+-
+-I talk to a lot of people who tell me they don't need or want a credit card because it's
+-just easier to use a debit card for purchases, or they are worried about credit card
+-interest. They are all wrong.
+-
+-Let's consider the following scenario: You are paid $1500 every two weeks, directly into your
+-checking account, you have a debit card for that account, and you have a credit card with no annual fee that
+-charges you 20% APR on any balance you hold after a 30-day grace period each month (fairly standard
+-credit card terms).
+-
+-Now say at the beginning of the month you get your $1500. In the first week you end up spending $1300
+-because you had to buy a plane ticket to Tokyo. In the second week you end up spending $205
+-just on normal stuff like coffee and lunch and drinks after work. And just for the sake of argument
+-let's assume you spend $250 in each of the third and fourth weeks, after you've received another $1500.
+-
+-If you are using a credit card you get a bill for $2005 at the end of the month and have 30 days
+-interest-free to transfer the money from your checking account. You pay no fees, and no interest, assuming 
+-you pay off the balance within 30 days of receiving the bill. That shouldn't be a problem since you'll
+-have $3000 sitting in your account by the end of the month.
+-
+-But if you are using a debit card, you overdraw your account once in that month and have to pay the
+-$30 (e.g.) overdraft fee. Not to mention you were probably stressing out a lot of the time,
+-knowing that you were nearly out of money and wanting to avoid the overdraft charge. The $30 charge
+-is effectively an interest rate, and it's much higher than the 20% APR you'd pay carrying the same
+-balance on your credit card. Even if you're only overdrawn for one day and for $1 you
+-pay that flat fee.
+-
+-Consider this. You overdrew your account by $5 for a couple of days and were charged $30 (maybe two
+-or three times more, if your bank "conveniently" tries to put the final charge through again). So you
+-borrowed $5 from your bank for a couple of days. At 20% APR it would take almost ten years to accrue
+-$30 in interest carrying a $5 balance on your credit card! Your bank is charging you that much interest
+-just for a couple of *days*! And they'll do it again and again if you're not careful to keep your balance
+-positive.
+-
+-Generally this leads most people to leave a bunch of extra money in their checking accounts so as
+-not to risk overdrawing. Checking accounts earn zero interest generally, so this effectively costs
+-people the interest they could otherwise have earned putting their money to work somewhere else. Even
+-if you never overdraw your account there is still this implicit cost. Granted it usually isn't very much
+-money you could have otherwise earned, but it's something.
+-
+-So don't use debit cards. Use your credit card as a cashflow management tool. It's completely free
+-if you pay off your balance before the grace period ends. And even if you don't, the interest you'll
+-pay is much much less than you'd pay your bank when you overdraw your account.
+diff --git a/_posts/2009-09-10-4-42-history-of-rushhq-part-two.markdown b/_posts/2009-09-10-4-42-history-of-rushhq-part-two.markdown
+deleted file mode 100644
+index a39d841..0000000
+--- a/_posts/2009-09-10-4-42-history-of-rushhq-part-two.markdown
++++ /dev/null
+@@ -1,132 +0,0 @@
+----
+-layout: post
+-categories: personal
+-title: "History of RushHQ (part II)"
+----
+-
+-This is part two of a multi-part series detailing the history of my web startup [RushHQ][1].
+-Part one is [here][2].
+-
+----
+-
+-#### Writing RushHQ Ourselves
+-
+-Before the middle of April, 2008 David, Rick and I had assumed we would pay programmers to build RushHQ
+-on top of the source code of CASManager, a product that David was selling to help International
+-Baccalaureate schools manage their CAS programs. We would have had to buy the CASManager source code
+-from Theodore and Faria Systems, the company David worked was working with. But once it became clear that I would have to
+-fund the purchase and subsequent programming work out of my own savings, that path became much less
+-attractive.
+-
+-So I convinced David and Rick that we could write the software ourselves, despite having no experience
+-and no time. Luckily David took the initiative and started reading everything he could about Ruby on Rails
+-(RoR), which is a web-application framework. CASManager is a RoR application, as are huge new sites like
+-Twitter and Justin.tv, so it was a credible choice for us. It was also relatively new but
+-had a huge community of developers using it and creating new features.
+-
+-So David worked really hard on learning RoR. In late April and early May I was very busy trying to
+-finish my second-year paper for my PhD in Economics, so I didn't spend much time on learning the ways
+-of web-programming and fell behind David. This would prove to be important later. I was at least
+-able to contribute as our server administrator, building on the knowledge I had gained fiddling with
+-Linux in 2000 and 2001. I also handled all of our DNS administration.
+-
+-On May 9th, 2008 David quit his job selling CASManager for Theodore to work on coding RushHQ. His quitting
+-had a lot to do with the strained relationship between him and Theodore, Faria's founder. But his
+-decision to quit gave him tons more free time to teach himself RoR and work on RushHQ, whereas I was again tied down with
+-studying for my PhD general/comprehensive exams until I completed them in early June. (Admittedly I
+-didn't actually study very hard since I was taking two of the rather easy exams, but I did pass at least.)
+-
+-#### David and Andrew Move to Georgia
+-
+-It was in May that David and I worked out a deal with our mutual friend Adam's mother Judy. She was
+-the director of an artists residency program in northern Georgia near a town called Dillard, and she kept
+-a house nearby in the woods as both a vacation home and a place to stay during work visits.
+-David and I wanted to seclude ourselves in that house in the woods to get a large chunk of RushHQ
+-coded up. Luckily she needed some database work done for the residency program, so we exchanged database
+-work for summer housing.
+-
+-As soon as I finished up my exams at Princeton in early June I drove down to Atlanta to meet up with 
+-David and pick up the mountain house key from Judy. (There's an amusing story related to my arrival in
+-Atlanta but it's not appropriate for this post). David and I drove up to Dillard the same night.
+-
+-During our time in Georgia David and I (mostly David) made a lot of headway into RushHQ. But if you read my
+-post [here][3] about writing a new version of RushHQ you'll remember that we made some naive decisions that
+-I consider now to be mistakes. Most of those decisions were made in Georgia while we were really
+-starting to put the basic pieces of RushHQ together. While in Georgia we also did a bit of hiking and tried to complete
+-1000 pushups in 24 hours or less (we couldn't).
+-
+-#### Andrew Leaves the Mountain House
+-
+-Back in May David and I had also decided to move to San Francisco after the summer. There's no
+-better place to write software and try to start a startup, so we had to go. We had agreed to live
+-with our friend Dave Linder in an apartment that he would rent starting July 1st, and the plan was
+-to move out to SF in August. Unfortunately my mother had planned a family trip to China for mid July,
+-which would eat into the time I had to contribute to RushHQ. I also decided to leave the mountain
+-house in GA before my trip to China to fly out to SF and handle the arrangements for the apartment
+-with Dave. David later admitted that he was frustrated by my lack of commitment during our time in GA,
+-which was justified considering my early departure. This became a point of contention later (see below).
+-
+-I was able to contribute quite a bit still by learning Subversion (the most popular scm at the time)
+-and trying to get our application "deployed" to our server after returning from China.
+-
+-#### What Happened to Rick Fox?
+-
+-You might be wondering this. To be honest I don't exactly remember what Rick was doing this whole time.
+-He had his full-time job still, and wasn't a programmer at all, so he didn't have much to do. We weren't
+-communicating regularly. I think he probably worked on some marketing copy for the public website at some
+-point.
+-
+-#### David Gets Angry
+-
+-David put a lot of effort into RushHQ in its infancy. Almost the entire first iteration was his code.
+-He was justifiably upset with me (and Rick) for not carrying our weight. And before I arrived in
+-San Francisco in early August he called and told me he wanted to take the project and make it his own.
+-He wanted me and Rick out.
+-
+-Needless to say I was not happy about this. I was moving to San Francisco to live and work with David.
+-I wanted to work on RushHQ. Obviously there was no money from the business to fight about yet. It was
+-mostly that I had put in some work already and I felt like I had a lot more to offer, so it was
+-frustrating that David didn't see it that way.
+-
+-Making matters worse was that David incorporated the business in Delaware without discussing it with
+-Rick and me. He also moved forward on asking our mutual friend Andrew Glantz to design the public
+-website. Neither decision in isolation was a big deal. They were more symbolic of David's go-it-alone
+-attitude at that point.
+-
+-So I arrived in San Francisco under these somewhat awkward circumstances. I remember having lots of discussions
+-with David about how to move forward. Some of these involved me spinning off what existed of the RushHQ
+-source code into a product for sororities. Most of the discussions involved me trying to explain to
+-David that RushHQ wasn't his to take. It was a contentious time. A lot of trust was damaged.
+-
+-#### Moving Towards Launch
+-
+-But in the end David came around to the idea of the three of us working together still. I'm not sure exactly
+-how it all shook out. But I know that I started coding on the project again, and we started moving rapidly
+-towards an early September launch. I remember coding a bunch of raw SQL during that time, since RoR's
+-native ActiveRecord ORM doesn't handle JOINs very well.
+-
+-I made a lot of cosmetic changes to the application, trying to simplify and standardize the look and feel.
+-David was trying to complete a few key features. We hired a flash programmer to take care of a
+-crucial piece of RushHQ called DoorManager. The idea was to have fraternity members be able to set up
+-a computer with a built-in camera so that recruits coming to rush events could submit their information
+-and a photo to the fraternity's recruitment database. We needed the flash work done to hook into a
+-computer's built-in camera.
+-
+-We collected email addresses for as many fraternity contacts as we could. David's girlfriend Sarah-Jane
+-was amazingly helpful with that effort. She spent hours each day scouring fraternity websites for
+-contact information.
+-
+-We were trying to launch before the start of the college rush season in late August, so things started
+-moving very quickly. Andrew Glantz came up with a passable public website for us. David and Rick worked
+-out some marketing copy they liked. I worked furiously getting up to speed
+-on server administration tasks, and figuring out how to deploy a RoR application. In the end
+-we ended up paying a little money for our hosting provider to deploy the app the first time.
+-
+-And after a couple of delays, we finally launched with an email to our contact list on September 5th, 2008.
+-Little did we know that most of the hard work was still to come.
+-
+-Part III coming soon...
+-
+-[1]:http://rushhq.com
+-[2]:/personal/2009/07/24/14-45-history-of-rushhq-part-one.html
+-[3]:/personal/2009/07/27/9-33-writing-rushhq-2-0-part-I.html
+diff --git a/_posts/2009-09-16-3-33-i-wont-pay-for-that-cause-it-used-to-be-free.markdown b/_posts/2009-09-16-3-33-i-wont-pay-for-that-cause-it-used-to-be-free.markdown
+deleted file mode 100644
+index 68dc99c..0000000
+--- a/_posts/2009-09-16-3-33-i-wont-pay-for-that-cause-it-used-to-be-free.markdown
++++ /dev/null
+@@ -1,55 +0,0 @@
+----
+-layout: post
+-categories:
+-- webapps
+-- monetization
+-title: "I won't pay for that! It used to be free!"
+----
+-
+-In a few discussions recently people have suggested a potential problem that could arise with the
+-freemium monetization model for web-based applications (for a discussion of "freemium" see [here][1]).
+-To explore the problem, consider an example: we'll pretend that you are running a web-based service that
+-allows any doctor, anywhere in the world, to track and manage data about his or her patients. You don't charge
+-doctors to use your service at first, but you do charge for a few premium features like a calendar and
+-patient appointment email notifications.
+-
+-Now suppose the premium feature sales aren't bringing in enough money to cover costs, so you decide to
+-start charging a small subscription fee to use the service. This would be akin to GMail announcing a
+-$10 monthly subscription fee to have an account. How would the doctors using your service feel, and
+-how would it translate into subscription sales?
+-
+-The argument I've heard recently is that the users (doctors in our example) would desert the service
+-en masse in anger at seeing a charge for something that was once free. Some friends have suggested that
+-users would be less likely to pay in this situation than if you had just charged the fee from the
+-beginning.
+-
+-I think this is ridiculous. There is no doubt that a lot of users would choose not to continue using the
+-service in order to avoid the fee. And no doubt some users will happily stay (unless the price is excessive).
+-What I want to argue is that the users who choose to leave would have never paid the fee in the first place.
+-
+-What it comes down to in my mind is value assessment. You are offering a service to people, and each of
+-those people will value the service differently. When you put a price on your service, you automatically
+-exclude those people who value the service at less than your price. There's nothing you can do about that.
+-The question is whether providing something for free first and then putting a price on it will induce
+-people to reduce the value they asses, and I think that's crazy. To believe that you have to believe there
+-is a group of your users who originally valued your service more highly than the price you put on it,
+-but who decide that your service isn't actually worth it after you start to charge that price.
+-
+-I actually think the opposite is probably true. That is, charging for a service that used to be free
+-might actually induce people to adjust upwards the value they place on it. You will probably have
+-an easier time converting someone from a free account than converting a new customer when you consider
+-things like lock-in. And considering how much easier it is to assess the value of something you've
+-actually used rather than something you've only read and heard about this seems rather obvious.
+-
+-I suppose there is a chance that your service appears really useful on paper so that people assess a high
+-value for it, but once they start using it they realize it's not as useful as they thought. In this case
+-you'll definitely want to charge people up front and get them locked in before they realize how crappy
+-your product actually is. But that's an extremely cynical way to make money, and I would hope most
+-people want to build a service they believe in.
+-
+-There will be users who are angry about having to pay if you start to charge for your service. But I
+-think those users already valued your service at less than the price you've put on it, and they'd be
+-even less likely to pay up front. I have no data on this, nor can I see a plausible way of collecting
+-any. But if you have anecdotal evidence one way or the other I'd love to hear about it in the comments.
+-
+-[1]:http://en.wikipedia.org/wiki/Freemium
+diff --git a/_posts/2009-10-29-make-yourself-uncomfortable.markdown b/_posts/2009-10-29-make-yourself-uncomfortable.markdown
+deleted file mode 100644
+index 2e45ab4..0000000
+--- a/_posts/2009-10-29-make-yourself-uncomfortable.markdown
++++ /dev/null
+@@ -1,37 +0,0 @@
+----
+-layout: post
+-category: personal
+-title: "Make Yourself Uncomfortable"
+----
+-
+-In my short time trying to run a web-application startup one thing stands out: I am often very
+-comfortable.
+-
+-I read a lot of stories about other founders and startups going through times of great stress
+-and uncertainty. They wonder if they'll get funded. Or, if they're already funded, they don't
+-know whether their next funding round will go through. If they are bootstrapping, they don't know
+-whether they'll have a product that can cover costs early enough to keep going. They worry that
+-users won't like a new feature. They worry that they can't develop new features faster than their
+-competitors. The list is long.
+-
+-Certainly there were times when I was uncertain or uncomfortable. But comparatively I think those
+-times were rare. This is almost certainly due to the fact that my poker winnings have afforded me
+-and continue to afford me the time to pursue ideas at a relatively modest pace. I don't *need*
+-any particular idea to succeed. I'm happy just to learn new things every day and work on projects that
+-I love.
+-
+-But if there's one thing I took away from [Startup School][1] this year it was from
+-[Paul Buchheit's][2] life-story. I'm not sure he actually said it, but I wrote in my notebook
+-"make yourself uncomfortable." I think this is really important to success and meeting
+-whatever ambitions or expectations you have for yourself.
+-
+-Because that's the only way to really grow. That's the only way to really learn new things. Make yourself
+-uncomfortable. Bite off more than you can chew. If you want your startup to succeed, promise something
+-you might not be able to deliver. Either you'll come through, or you'll have learned a ton trying.
+-
+-If you're not uncomfortable some of the time in your job, or in your relationships, or in your
+-life in general, then you're doing it wrong. For me, I've been doing it wrong for too long. That
+-stops now.
+-
+-[1]:http://startupschool.org
+-[2]:http://en.wikipedia.org/wiki/Paul_Buchheit
+diff --git a/_posts/2009-12-26-googles-chrome-os-is-a-commitment-mechanism.markdown b/_posts/2009-12-26-googles-chrome-os-is-a-commitment-mechanism.markdown
+deleted file mode 100644
+index 672f304..0000000
+--- a/_posts/2009-12-26-googles-chrome-os-is-a-commitment-mechanism.markdown
++++ /dev/null
+@@ -1,50 +0,0 @@
+----
+-layout: post
+-categories:
+-- tech
+-- google
+-title: "Google's Chrome OS is a Commitment Mechanism"
+----
+-
+-Since June when Google announced it would be [turning its Chrome web-browser into an operating system][1]
+-a lot of people have written about it. Google has now [released the Chrome OS source code][2] and netbook makers
+-have already [committed to shipping devices][4] running the operating system next year. For a quick refresher on
+-what the Chrome OS actually is see this [FAQ][3] or just watch this video:
+-
+-<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/0QRO3gKj3qw&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/0QRO3gKj3qw&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>
+-
+-I have wanted an operating system like this for a long time (read two years). But many people think the
+-Chrome OS is [too limited][5], [too old-fashioned][6] or just plain [stupid][7]. I won't respond directly
+-to those criticisms, but I will explain why I think Chrome OS is definitely the most promising software
+-development of 2009.
+-
+-In economics and game theory there is this concept of a "commitment mechanism" -- something you choose to
+-do now that might not be in your best interest in the short-term, but will restrict your future choices in
+-a way that you know is optimal. For instance I choose all the time to avoid credit-cards with points-based
+-rewards programs, because I know that if I have one I will waste way too much time trying to figure out how
+-to maximize the value of my "rewards." It's just not worth it in the end, so I choose to avoid those offers.
+-
+-Chrome OS is a commitment mechanism. By using it you commit yourself to using only hosted web-applications
+-like Gmail, and Salesforce, and ING Direct, and Zoho, and 37signals. You commit yourself to this because you know that
+-in the long run it is better for you. In a web-application only world you don't worry about what device
+-you're using to access your applications and data; any device with a web-browser will do. You don't worry
+-about your computer crashing; just get a new one with a web-browser and you're ready to go. You save money,
+-since you don't need any expensive hardware in your computer. And you're more efficient, since your computer
+-won't need as much power and you're not letting it sit unused all the time.
+-
+-No you can't run Microsoft Word or Adobe Photoshop on Chrome OS _right now_. You can't run Mathematica or
+-play Grand Theft Auto on Chrome OS _right now_. That's the short-term cost of your commitment. But don't
+-be too short sighted; Hosted web-applications are here to stay. And I have no doubt that we will see "cloud"
+-versions of those applications within five years. In fact [Microsoft Office will be in the cloud][8] next
+-year. That's the great thing about this commitment. By choosing this path you actually force application
+-developers to move faster towards creating hosted and distributed "cloud" applications. And then everybody
+-wins. Give credit to Google for pushing this vision forward, and providing the commitment mechanism we need.
+-
+-[1]:http://googleblog.blogspot.com/2009/07/introducing-google-chrome-os.html
+-[2]:http://googleblog.blogspot.com/2009/11/releasing-chromium-os-open-source.html
+-[3]:http://chrome.blogspot.com/2009/07/google-chrome-os-faq.html
+-[4]:http://blogs.zdnet.com/gadgetreviews/?p=9821
+-[5]:http://www.wired.com/gadgetlab/2009/11/google-chrome-os-2/
+-[6]:http://ultraorange.net/2009/11/21/google-chrome-os-i-am-so-unexcited-because-its-the-return-of-stupid-mainframe-computing/
+-[7]:http://theonda.org/articles/2009/11/28/after-more-thinking-ive-decided-that-chrome-os-is-stupid
+-[8]:http://bits.blogs.nytimes.com/2009/07/13/microsoft-office-2010-starts-ascension-to-the-cloud/
+diff --git a/_posts/2010-01-30-web-sites-vs-web-apps.markdown b/_posts/2010-01-30-web-sites-vs-web-apps.markdown
+deleted file mode 100644
+index eb02602..0000000
+--- a/_posts/2010-01-30-web-sites-vs-web-apps.markdown
++++ /dev/null
+@@ -1,107 +0,0 @@
+----
+-layout: post
+-categories:
+-- tech
+-title: "Is a Web Site the Same As a Web App?"
+----
+-
+-This is an article I wish I'd found when I was starting out with web development. It's not meant
+-to be an exhaustive discussion of what exactly makes up a web application. And it's written at a pretty
+-low technical level, so hopefully it will inform
+-and educate a few people and help to reveal how some of the software layers involved with web development
+-work together. I will probably amend and rework this post as time goes on and I figure out better ways
+-of explaining some of the concepts.
+-
+-First we need some background.
+-
+-**Servers and Clients**
+-
+-When people talk about developing a web site, or a web app, or even a single web page, they are almost always
+-working on something with a client/server architecture, althought they might not know it. This isn't
+-actually complicated. A server is just a piece of software on a computer that "listens" for connections
+-and requests and "serves" responses. A client is a piece of software that initiates connections and
+-makes requests to a server and does stuff with the responses. (We use web clients every day, but we call
+-them web browsers.) A lot of the time the concept of a server
+-gets tied up with the particular computer the software is running on (as in, "oh that box over there is my
+-web server, and this one is my email server"). This is purely because someone has decided to isolate a
+-particular computer for performing a particular function and thus has it primarily running a particular
+-server software. But the server is still the software, and most internet connected "server" computers are
+-actually running multiple kinds of server software. For instance, a web server computer often is running
+-not only a web server, but an ssh server and an ftp server, all listening for different kinds of connections
+-and requests.
+-
+-**The Legacy of HTTP and HTML**
+-
+-Now any client and server need a way to talk to one another that's agreed upon beforehand, something called
+-a "protocol." For web servers and web clients the standard protocol is the Hypertext Transfer Protocol, or
+-HTTP. This simple protocol was designed for transferring specially formatted documents from a computer
+-running web server software to a computer running a web browser, and for passing information back the
+-other way. Those specially formatted documents are called HTML documents, short for Hypertext Markup
+-Language.
+-Think of an HTML document kind of like a Microsoft Word document, except that it's way more annoying to
+-write. For a variety of reasons, including its simplicity, HTTP and the web server/browser ecosystem is the
+-dominant way that computers interact on the internet.
+-
+-**OK, so what's a web site?**
+-
+-A web site is just a collection of HTML documents sitting on a computer running web server software. Nothing
+-special is going on. When a web client (a web browser like Google Chrome for instance) makes a connection
+-to a web server, the client uses HTTP to ask for a particular HTML document. The server software then
+-finds that document and returns it. Think of it kind of like a Powerpoint presentation. A collection of
+-HTML documents is just like a collection of Powerpoint slides. They pretty much just display information.
+-Often the HTML documents are linked together. In fact, that's what makes them collectively a "site."
+-Without links, the HTML documents are just single web pages. The links are a convenience for the
+-web client. Instead of having to type in a new address every time you want a new HTML document, you can just
+-click a link.
+-
+-**Then what's a web application?**
+-
+-This is where things get interesting. A web application isn't a well-defined thing, so people may disagree
+-with the way I think about this. But to me, a web application is software that you actually interact with
+-to do something useful with data, running on an internet connected computer, which is also running web
+-server software, so that you can connect to the computer (and in turn the web application) in a standard,
+-well-known way, e.g. with your web browser. This is confusing, and the rest of this post is devoted to
+-explaining the distinction between a web site and a web application in order to (hopefully) alleviate
+-some of that confusion.
+-
+-The most confusing thing is that the way that you interact with a web site and a web application looks
+-and feels the same from the outside. That's because programmers generally don't like to re-invent things
+-that are already working and well-accepted. HTTP and HTML and web servers (like Apache) and web clients
+-(like Firefox) are ubiquitous. So more and more complex ways of interacting with remote, internet-connected
+-computers got built upon what started out as a simple, HTML document exchanging technology. The tools and
+-interactions look the same on one level. Yes, your web browser is still talking HTTP to a web server,
+-and the web server still responds (not always, but generally) with an HTML document. But if you go a
+-little deeper there's a lot going on behind the scenes.
+-
+-The extra things that web applications do take place behind the web server. The web server software is
+-just the gateway to the real application. You can't see what the actual application looks like by looking
+-at the HTML a web server sends back to your browser. For instance, when you click to add a friend on
+-facebook (which is most
+-definitely a full-featured web application), how does facebook's software actually associate you with that
+-person? There's no way to know, unless you can see facebook's source code. You can make educated guesses
+-based on the HTML that you get from the web server, but you can't know for sure unless you see the source
+-code of the software they have written. That's running behind the web server.
+-
+-This is the major distinction. A web site uses a web server to do what it was originally intended to do:
+-serve HTML pages. A web application uses a web server as a gateway to the real application. And writing
+-real applications is hard. You generally have to have a way to permanently store users' information and
+-data for your application to be useful. And you have to manage that data securely, only allowing access
+-to bits and pieces based on who is trying to get at it. There are a lot of issues involved, and getting
+-it all right is hard.
+-
+-But it's really fun to think and learn about. And the best part is that the technologies and standards
+-are (almost) all open, so it's relatively easy to jump in. There are lots of ways to write applications
+-behind web servers now. The most common is probably to use PHP,
+-a programming language that's kind of designed for such uses. You can write applications in the Ruby
+-programming language using a variety of frameworks such as Ruby on Rails and Sinatra. You can write them
+-in the Python language using Django and Pylons. You can even write server-side applications in Javascript
+-with node.js. There will be many many more in the future as people decide they don't like the existing
+-options and create new alternatives.
+-
+-So there is a big difference between a web site and a web application. Although a lot of the technology is
+-the same across both, web applications let you do more than just read HTML documents. They generally let you
+-store and manipulate data and come back to it at a later time. They tend to display data conditional upon
+-the particular user requesting it. And developing these kinds of applications is hard. I'm glad I learned
+-how to do it, and hopefully this post will help others to begin to learn as well.
+-
+-I look forward to answering any and all questions or comments below.
+diff --git a/_posts/2010-02-01-why-the-ipad-will-fail.markdown b/_posts/2010-02-01-why-the-ipad-will-fail.markdown
+deleted file mode 100644
+index 6ce6fed..0000000
+--- a/_posts/2010-02-01-why-the-ipad-will-fail.markdown
++++ /dev/null
+@@ -1,18 +0,0 @@
+----
+-layout: post
+-category: tech
+-title: "Why the iPad Will Fail"
+----
+-
+-On the way to work today I had my [Nexus One][1] hooked up to the car stereo, streaming Pandora Radio. I had
+-Google Maps' [free turn-by-turn navigation feature][2] enabled, talking to me in case I was distracted and
+-forgot a turn. And I got a notification of a new email, which I responded to at a red light. All at the
+-same time. All without having to stop and restart each application. Pandora was streaming the whole time.
+-My turn-by-turn directions kept talking to me in the background. It was awesome.
+-
+-I don't understand how iPhone owners deal with the constant starting and stopping of their applications.
+-And until the iPad OS can multi-task (and it may by the time it goes on sale) I don't see how the device can
+-succeed.
+-
+-[1]:http://www.google.com/phone
+-[2]:http://www.google.com/mobile/navigation/
+diff --git a/_posts/2010-02-20-support-the-ctc-ten-foundations-africa-project.markdown b/_posts/2010-02-20-support-the-ctc-ten-foundations-africa-project.markdown
+deleted file mode 100644
+index ffe5308..0000000
+--- a/_posts/2010-02-20-support-the-ctc-ten-foundations-africa-project.markdown
++++ /dev/null
+@@ -1,25 +0,0 @@
+----
+-layout: post
+-category: personal
+-title: "Support the CTC Ten Foundation's Africa Project"
+----
+-
+-Support CTC10: [buy a $25 raffle ticket][1] and you could win $2500!
+-
+-The CTC Ten Foundation was formed in honor of Christopher Campbell, my girlfriend's younger brother, who
+-passed away suddenly in 2007. He was 21. The foundation carries out a mission to help children through
+-soccer. With the generous support of Chris's family and friends, last year the foundation planned and built the
+-brand new [Christopher Campbell Memorial Soccer Field][2] in [Khayelitsha Township][5] on the outskirts of Capetown,
+-South Africa. The foundation has since erected a clubhouse at the field for community
+-events and AIDS education for children, and the field has even hosted some [famous visitors][3].
+-
+-[Read more about the foundation][4] and [its goals][6].
+-
+-[Buy a raffle ticket for $25][1] to support the CTC Ten Foundation and you could win $2500!
+-
+-[1]:http://ctcten.org/about/mission/sponsorship/raffle/
+-[2]:http://blog.ryanmcgonigle.com/2009/02/05/chris-campbell-memorial-field-opening.aspx
+-[3]:http://ctcten.org/multimedia/
+-[4]:http://ctcten.org/about/
+-[5]:http://ctcten.org/events/
+-[6]:http://ctcten.org/project-goals/
+diff --git a/_posts/2010-02-26-journalism-is-not-dead-yet.markdown b/_posts/2010-02-26-journalism-is-not-dead-yet.markdown
+deleted file mode 100644
+index 1506e4c..0000000
+--- a/_posts/2010-02-26-journalism-is-not-dead-yet.markdown
++++ /dev/null
+@@ -1,12 +0,0 @@
+----
+-layout: post
+-category: personal
+-title: "Journalism Isn't Dead Yet"
+----
+-
+-I'm in a [Newsweek article][1] online today about ["Millenials"][2] and how the recession is affecting
+-our work and careers. Check it out if you have five minutes to spare: [http://www.newsweek.com/id/234177][1].
+-
+-
+-[1]:http://www.newsweek.com/id/234177
+-[2]:http://en.wikipedia.org/wiki/Generation_Y
+diff --git a/_posts/2010-03-30-google-voice-releases-a-long-overdue-update.markdown b/_posts/2010-03-30-google-voice-releases-a-long-overdue-update.markdown
+deleted file mode 100644
+index bc0fba5..0000000
+--- a/_posts/2010-03-30-google-voice-releases-a-long-overdue-update.markdown
++++ /dev/null
+@@ -1,26 +0,0 @@
+----
+-layout: post
+-category: tech
+-title: "Google Voice Releases a Long-Overdue Update"
+----
+-
+-Last week [Google Voice released an update for Android][1] that made the service essentially perfect as
+-far as I'm concerned. The update makes SMS and voicemail notifications to your Android phone appear
+-almost instantly. Previously SMS and voicemail messages would take up to five minutes to appear on your
+-phone. And in the early days of the service back in July 2009 it was taking even longer. I sometimes saw
+-delays of up to 45 minutes back then, which obviously makes any kind of SMS conversation impossible.
+-
+-Without knowing for sure I'd say that this update must change SMS and voicemail delivery from pull to push.
+-Previously the Google Voice application running on your Android phone would poll the Google Voice server
+-every five minutes, pulling in new messages at regular intervals. If you received a message just after
+-one of those polls, you wouldn't see it on your phone until the next poll was sent. With push delivery,
+-anytime the Google Voice server receives a message addressed to you it immediately sends it down to your phone.
+-
+-Push notification is very popular right now. New services like [Boxcar][2] and [Notifo][3] allow developers
+-to build push notification into their mobile apps. I'm glad to see Google pushing forward in this
+-direction with Google Vloice as well.
+-
+-
+-[1]:http://googlevoiceblog.blogspot.com/2010/03/faster-google-voice-experience-on.html
+-[2]:http://boxcar.io/
+-[3]:http://notifo.com/
+diff --git a/_posts/2010-04-02-ipad-review-roundup.markdown b/_posts/2010-04-02-ipad-review-roundup.markdown
+deleted file mode 100644
+index 63ef66d..0000000
+--- a/_posts/2010-04-02-ipad-review-roundup.markdown
++++ /dev/null
+@@ -1,24 +0,0 @@
+----
+-layout: post
+-category: daily-dose
+-title: "iPad Review Roundup"
+----
+-
+-A few good iPad-related articles and reviews from yesterday and today. The Hacker News comments are
+-pretty interesting as well so I've linked to those too:
+-
+-* Davig Pogue looks at the iPad [from two angles][1] in the New York Times.
+-* ([HN discussion][2])
+-* Cory Doctorow [won't be buying an iPad][3] and doesn't think you should either.
+-* ([HN discussion][4])
+-* John Gruber [sees things differently][5] in "The Kids Are All Right."
+-* ([HN discussion][6])
+-
+-What's your favorite?
+-
+-[1]:http://www.nytimes.com/2010/04/01/technology/personaltech/01pogue.html
+-[2]:http://news.ycombinator.com/item?id=1233530
+-[3]:http://www.boingboing.net/2010/04/02/why-i-wont-buy-an-ipad-and-think-you-shouldnt-either.html
+-[4]:http://news.ycombinator.com/item?id=1236722
+-[5]:http://daringfireball.net/2010/04/kids_are_all_right
+-[6]:http://news.ycombinator.com/item?id=1237078
+diff --git a/_posts/2010-04-06-hacking-winmo-cuban-on-customers-and-wasting-time.markdown b/_posts/2010-04-06-hacking-winmo-cuban-on-customers-and-wasting-time.markdown
+deleted file mode 100644
+index da864de..0000000
+--- a/_posts/2010-04-06-hacking-winmo-cuban-on-customers-and-wasting-time.markdown
++++ /dev/null
+@@ -1,19 +0,0 @@
+----
+-layout: post
+-category: daily-dose
+-title: "Hacking WinMo, Cuban on Customers and Wasting Time"
+----
+-
+-Today was a pretty slow tech news day. Nevertheless a few interesting reads:
+-
+-* Wired describes the fad of hacking HTC Windows Mobile phones to [run Android instead][1].
+-* Mark Cuban explains why you should [never listen to your customers][2].
+-* And if you're looking to waste some time finding new domain names here's a good directory of [domain name tools][3]. I really like [NXdom][4].
+-
+-Also I'll be attempting to build [Google's Chrome OS][5] later so look for a writeup of that.
+-
+-[1]:http://www.wired.com/gadgetlab/2010/04/windows-mobile-android/
+-[2]:http://blogmaverick.com/2010/04/06/why-you-should-never-listen-to-your-customers/
+-[3]:http://domaingroovy.com/
+-[4]:http://www.nxdom.com/
+-[5]:/google/tech/2009/12/26/googles-chrome-os-is-a-commitment-mechanism.html
+diff --git a/_posts/2010-04-08-iphone-os-4-customer-development-and-android-based-robots.markdown b/_posts/2010-04-08-iphone-os-4-customer-development-and-android-based-robots.markdown
+deleted file mode 100644
+index d9320cd..0000000
+--- a/_posts/2010-04-08-iphone-os-4-customer-development-and-android-based-robots.markdown
++++ /dev/null
+@@ -1,23 +0,0 @@
+----
+-layout: post
+-category: daily-dose
+-title: "iPhone OS 4.0, some Customer Development and Android-based Robots"
+----
+-
+-Yes I have to link to the [iPhone OS 4.0 announcement][1] today. The new OS will support multitasking of some sort,
+-which means my main reason for [predicting the failure of the iPad][2] is now unfounded. There's bound to be a lot
+-of discussion around the new OS, which I will inevitably read and post about. Some other interesting stuff popped up
+-today:
+-
+-* Steve Blank explains the [difference between a business plan and a business model][3]. (Hint: he thinks the former is a waste of time.)
+-* Some guys have developed a [robot called Truckbot][4] that runs on Android. They have more videos and interesting info over at [cellbots.com][5].
+-
+-**Chrome OS build update**: I'm in day three now. I made the mistake of not compiling with a "local user" account
+-enabled, so I have to go back a few steps. It's been interesting though so far, and the guys in #chromium-os on IRC
+-have been very helpful.
+-
+-[1]:http://www.engadget.com/2010/04/08/multitasking-comes-to-iphone-os-4-0/
+-[2]:/tech/2010/02/01/why-the-ipad-will-fail.html
+-[3]:http://steveblank.com/2010/04/08/no-plan-survives-first-contact-with-customers-%E2%80%93-business-plans-versus-business-models/
+-[4]:http://robots.net/article/3011.html
+-[5]:http://www.cellbots.com/
+diff --git a/_posts/2010-04-12-free-calls-with-google-voice-and-iphone-developer-outrage.markdown b/_posts/2010-04-12-free-calls-with-google-voice-and-iphone-developer-outrage.markdown
+deleted file mode 100644
+index 80e8b77..0000000
+--- a/_posts/2010-04-12-free-calls-with-google-voice-and-iphone-developer-outrage.markdown
++++ /dev/null
+@@ -1,20 +0,0 @@
+----
+-layout: post
+-category: daily-dose
+-title: "Free Calls with Google Voice and iPhone Developer Outrage"
+----
+-
+-I just remembered that a couple months ago I found this awesome resource on [setting up Google Voice with a VoIP service][1] (since
+-Google Voice isn't actually VoIP) for unlimited free calling, so figured I might as well link
+-to it today. Oh, and there was a bit of an [explosion of discontent][2] over the weekend after Apple [snuck in a
+-seemingly minor change][3] to its iPhone developer's license agreement. A lot of developers are finally beginning to
+-see Apple for the ogreish beast it has become.
+-
+-**Chrome OS build update**: I've been spending some time reading posts on the [chromium-os-dev list][4]. Still no luck
+-on figuring out what I'm doing wrong during the build process. I've posted to the group so maybe I can get some
+-help that way. I'm committed to getting Chrome OS up and running though.
+-
+-[1]:http://docs.google.com/Doc?docid=0Ae8glDUXDsh9ZGR2eG43cjRfMzNkOTM4ZjNjeA&hl=en
+-[2]:http://news.ycombinator.com/item?id=1250799
+-[3]:http://daringfireball.net/2010/04/iphone_agreement_bans_flash_compiler
+-[4]:http://groups.google.com/a/chromium.org/group/chromium-os-dev/topics
+diff --git a/_posts/2010-04-16-apple-doesnt-want-your-iphone-app-to-make-money.markdown b/_posts/2010-04-16-apple-doesnt-want-your-iphone-app-to-make-money.markdown
+deleted file mode 100644
+index d1e602b..0000000
+--- a/_posts/2010-04-16-apple-doesnt-want-your-iphone-app-to-make-money.markdown
++++ /dev/null
+@@ -1,53 +0,0 @@
+----
+-layout: post
+-category: tech
+-title: "Apple Doesn't Want Your iPhone App to Make Money"
+----
+-
+-There's no doubt that Apple is an incredible marketing machine. Nothing demonstrates that better than the
+-[hype][1] surrounding the recent iPad launch (actual Newsweek cover [here][2]). When my dad has read more about
+-a new product launch than I have, you know they hit it out of the park.
+-
+-So it's no surprise that Apple has also done an amazing job of marketing its App Store to developers as the next
+-great software product platform. The conventional wisdom is that a lot of people are [making a lot of money][3] selling
+-apps in the App Store. And Apple has worked pretty hard to encourage that conventional wisdom. So strong is the
+-impression that giant pots of gold await talented app developers that they are
+-willing to put up with abuses like [poorly-explained app rejections][4], [hypocritical "policy" enforcement][5] and, most
+-recently, small but [significant changes][6] to the iPhone Developer Program License Agreement.
+-
+-And why wouldn't Apple want every developer to believe he or she can get rich with an app in the App Store? Apple 
+-absolutely needs developers to continue producing apps for the iPhone, iPod Touch and now the iPad, because the
+-strength of Apple's device sales depends critically on the strength of the App Store, and Apple makes its money
+-selling devices. The importance of the App Store is evident in Apple's primary iPhone ad slogan,
+-["There's an App For That."][8] So anybody who believes Apple's meteoric rise in mobile computing hasn't
+-depended on the App Store is kidding herself.
+-
+-The trouble is that apps and iPhones (or iPods, or iPads) are complements in the economic sense. The iPhone is
+-dependent on apps for its continued success and apps depend on the iPhone's continuing popularity for theirs. 
+-And anyone who's read Joel Spolsky's ["Strategy Letter V"][7] can see where this is going. When you've got a
+-product in the market, you want to commoditize your product's complements. That is, you want to find ways
+-to make complementary products as cheap and ubiquitous as possible.
+-
+-Apple is no exception. Rest assured they are thrilled with the more than 185,000 apps available in the App Store.
+-But they are even more thrilled that so many are free. A continuous supply of cheap apps ensures that
+-iPhone users can find pretty much anything they want (except [Google Voice][9]), so they continue to be
+-happy with their device, ensuring that they will recommend it to friends, thus driving more iPhone sales.
+-
+-Apple wins big in this situation; developers, not so much. Because Apple's incentives aren't entirely aligned
+-with developers' incentives. Yes, both want to see iPhones and iPods in as many hands as possible. But app
+-developers want to make money, and Apple benefits most when they don't.
+-
+-So if you're an App Store developer, of course Apple wants you to believe you can make a bunch of money there.
+-And if you are one of the few, that's great. Milk it while you can. Because rest assured Apple is hoping a cheaper
+-version of your app will appear. And you never know when it might take a more active role in encouraging such
+-an outcome.
+-
+-[1]:http://www.newsweek.com/id/235565/output/print
+-[2]:http://ndn1.newsweek.com/media/83/100405_cover.jpg
+-[3]:http://www.wired.com/gadgetlab/2009/02/shoot-is-iphone/
+-[4]:http://www.rogueamoeba.com/utm/2009/11/13/airfoil-speakers-touch-1-0-1-finally-ships/
+-[5]:http://techcrunch.com/2010/02/18/line2-google-voice/
+-[6]:http://daringfireball.net/2010/04/iphone_agreement_bans_flash_compiler
+-[7]:http://www.joelonsoftware.com/articles/StrategyLetterV.html
+-[8]:http://www.youtube.com/watch?v=szrsfeyLzyg&feature=related
+-[9]:/tech/2009/07/28/12-19-apple-blocks-google-voice-on-iphone.html
+diff --git a/_posts/2010-05-14-apple-doesnt-care-whether-your-iphone-app-makes-money.markdown b/_posts/2010-05-14-apple-doesnt-care-whether-your-iphone-app-makes-money.markdown
+deleted file mode 100644
+index abe8d5e..0000000
+--- a/_posts/2010-05-14-apple-doesnt-care-whether-your-iphone-app-makes-money.markdown
++++ /dev/null
+@@ -1,50 +0,0 @@
+----
+-layout: post
+-category: tech
+-title: "Apple Doesn't Care Whether Your iPhone App Makes Money"
+----
+-
+-About a month ago I wrote an article about [Apple and iPhone apps][1], claiming that since the iPhone and iPhone apps
+-are complementary products, Apple has an incentive to keep apps cheap in order to sell more phones. A lot of people
+-thought I was wrong both here and on [Hacker News][2]. So in an effort to redeem what was perhaps a poorly-written
+-thesis, I present this update based on the discussions that followed.
+-
+-I maintain that Apple is primarily a hardware company making [high margins][3] on each device it sells. Apple is happy
+-to keep doing this, since it's very very good at it. But being the intelligent marketers that they are, Apple's execs know
+-that people like to buy devices that can do loads of cool stuff. Enter iPhone apps and the App Store.
+-
+-Since Apple isn't really a software company it must entice others to create applications for its devices. So far
+-it has wildly succeeded in achieving this with the iPhone (and iPod Touch), boasting over [200,000 apps][4] available
+-in the App Store. But quantity of apps isn't the only metric that matters. Price is also important. If all of those
+-200,000 apps cost $99, the App Store would be almost useless as a marketing tool since few could afford to buy many apps.
+-
+-So Apple clearly has an incentive to create a commoditized app marketplace, where good apps are plentiful _and_
+-cheap. But this is exactly the situation that ["Strategy Letter V"][5] predicts for a product and its complements.
+-And based on information like [this][6], it's hard to deny that the App Store isn't already a commoditized marketplace.
+-Most apps are free or cost 99 cents regardless of quality or development cost.
+-
+-Hence we see, at best, that Apple really doesn't care whether or not your iPhone app makes any money. As long as it
+-is good and inexpensive, Apple is happy to sell it for you since they reap most of the rewards. (Granted Apple takes
+-30% from each app sale, but they've stated that the fees cover the overhead of running the App Store and are not a
+-significant source of profits). But as an app developer, your incentives and Apple's are not at
+-all aligned.
+-
+-Now don't get me wrong, Apple has every right to pursue what's best for itself according to its incentives. But let's
+-not hold any illusions that Apple has developers' best interests at heart.
+-
+-P.S.
+-
+-Interestingly "Strategy Letter V" also sheds light on the developer outrage surrounding Apple's [change to Article
+-3.3.1][7] in the iPhone Developer Program License Agreement. Just as Apple has an incentive to commoditize iPhone OS
+-software, software developers have an incentive to commoditize devices. How would they do that? By creating a software
+-abstraction layer that makes every device look the same to the applications above. And these kinds of abstraction
+-layers are exactly what the 3.3.1 change is designed to snuff out. It's an interesting battle with plenty of money to
+-be made and lost on both sides.
+-
+-[1]:/tech/2010/04/16/apple-doesnt-want-your-iphone-app-to-make-money.html
+-[2]:http://news.ycombinator.com/item?id=1277186
+-[3]:http://www.businessweek.com/technology/content/jul2007/tc2007072_957316.htm
+-[4]:http://mediamemo.allthingsd.com/20100429/apple-were-at-200000-ipad-apps-and-counting-and-none-of-them-use-flash/
+-[5]:http://www.joelonsoftware.com/articles/StrategyLetterV.html
+-[6]:http://blog.jwegener.com/2009/02/19/iphone-app-economics-free-vs-paid/
+-[7]:http://daringfireball.net/2010/04/iphone_agreement_bans_flash_compiler
+diff --git a/_posts/2010-5-12-presenting-ifmap-js-and-jsmap.markdown b/_posts/2010-5-12-presenting-ifmap-js-and-jsmap.markdown
+deleted file mode 100644
+index e3007e4..0000000
+--- a/_posts/2010-5-12-presenting-ifmap-js-and-jsmap.markdown
++++ /dev/null
+@@ -1,41 +0,0 @@
+----
+-layout: post
+-category: open-source
+-title: "Presenting ifmap.js and jsmap"
+----
+-
+-I've spent the past six months as a contractor with [Infoblox][1] in Santa Clara California working on projects related to
+-[IF-MAP][2], a client/server protocol for network-connected devices. I should have written a post describing the protocol
+-long ago, but I wanted it to be entertaining and have pretty pictures which ended up deterring me from ever starting.
+-So for the purposes of this post it's enough to say that a MAP server is pretty much just a graph database with
+-publish, search and subscribe operations, and a MAP client uses the IF-MAP protocol to perform those operations.
+-The IF-MAP protocol itself is really just a specific [SOAP][3] format built on top of HTTPS as a transport layer.
+-
+-So with that little bit of background, I'm announcing the open-source release of two related software projects:
+-[ifmap.js][4] and [jsmap][5]. I'll describe each briefly below. See the README documents in each project's repository for
+-more information.
+-
+-### [ifmap.js][4] ###
+-
+-ifmap.js is an IF-MAP client library implementation in JavaScript. It depends on [jQuery][6]'s $.post(), $.each() and
+-$.proxy() functions. Due to browsers' [same-origin policy][7] a JavaScript IF-MAP client can't send requests directly
+-to a remote MAP server. All requests must be sent through a proxy, sold separately. For a simple example of how this
+-might work, see...
+-
+-### [jsmap][5] ###
+-
+-jsmap uses ifmap.js to build an actual IF-MAP client that runs in the browser. You can point and click to build
+-IF-MAP requests, submit them to a MAP server and see the responses. Requests are proxied through a simple
+-[Sinatra][8] application.
+-
+-Comments and suggestions are most welcome. Just send me an email; my address is pretty easy to find. For more information about IF-MAP see [ifmapdev.com/documentation][2] and join the [ifmapdev Google Group][9].
+-
+-[1]:http://www.infoblox.com/
+-[2]:http://ifmapdev.com/documentation
+-[3]:http://en.wikipedia.org/wiki/SOAP
+-[4]:http://github.com/andrewmbenton/ifmap.js
+-[5]:http://github.com/andrewmbenton/jsmap
+-[6]:http://api.jquery.com/
+-[7]:http://en.wikipedia.org/wiki/Same_origin_policy
+-[8]:http://www.sinatrarb.com/
+-[9]:http://groups.google.com/group/ifmapdev
+diff --git a/_posts/2010-5-5-i-quit-facebook-sort-of.markdown b/_posts/2010-5-5-i-quit-facebook-sort-of.markdown
+deleted file mode 100644
+index e3c0821..0000000
+--- a/_posts/2010-5-5-i-quit-facebook-sort-of.markdown
++++ /dev/null
+@@ -1,42 +0,0 @@
+----
+-layout: post
+-category: personal
+-title: "I Quit Facebook (Sort Of...)"
+----
+-
+-I can't remember exactly when I joined Facebook. I think it was early 2005. We had some great moments together back then,
+-when poking was fun and there was no such thing as a news feed or photo albums, and certainly no applications. There
+-also wasn't much spam. It was a simpler time.
+-
+-But it's over now. Facebook's gone too far. And besides, I haven't logged in more than once every couple of months since
+-early 2008. It hasn't been fun or useful for awhile. So yesterday I "disabled" my account. I think that means I can restore
+-my account at any time. Meaning my data still exists in a Facebook database somewhere. But importantly, my computer
+-won't have Facebook's cookie on it as I cruise around the internet.
+-
+-Why is this important? Because Facebook is [partnering][1] with a bunch of sites to help them get data about me when I
+-visit, and the link between me and my data is that little Facebook cookie. Without the cookie, no other site will be able
+-to know anything about me from Facebook. Facebook's partners to start are sites like Pandora,
+-Yelp and Microsoft's Docs.com. And I have nothing in particular against any of those sites. But in the future there will
+-be many more partner sites, perhaps a majority of sites, and it scares me to think that by just arriving at a site's
+-landing page the owner will know a ton of stuff about me.
+-
+-Another reason for quitting is that I see Facebook pushing to be the single identity provider on the web, and I don't
+-want them to win. This is even more scary. Imagine
+-if every site on the web required you to authenticate with your Facebook username and password. In a way this would be
+-nice, since you wouldn't have to remember the tons and tons of passwords you do now. But I don't want that forced upon
+-me by Facebook. I want to be able to choose my identity provider, the same way I can choose my webmail provider.
+-[OpenID][2] and [OAuth][3] are open standards that support choice in identity providers. Google supports OpenID.
+-Yahoo! supports OpenID.
+-Blogger and Flickr support OpenID. Wordpress supports OpenID. Facebook does not. Facebook wants to restrict choice in
+-identity management, and that's bad.
+-
+-So I (half) quit. I could come back, but I don't forsee it happening. And I'm guessing nobody will miss me. I didn't
+-post a status update about it, so I imagine most of my "friends" won't ever realize I'm gone.
+-
+-P.S. You probably already have an OpenID that you can use to log in to a lot of sites without setting up a new account.
+-[Find out here][4].
+-
+-[1]:http://blog.facebook.com/blog.php?post=383404517130
+-[2]:http://openid.net/
+-[3]:http://oauth.net/
+-[4]:http://openid.net/get-an-openid
+diff --git a/_posts/2010-5-6-i-quit-facebook-part-two-in-which-i-am-immediately-vindicated.markdown b/_posts/2010-5-6-i-quit-facebook-part-two-in-which-i-am-immediately-vindicated.markdown
+deleted file mode 100644
+index 54c685c..0000000
+--- a/_posts/2010-5-6-i-quit-facebook-part-two-in-which-i-am-immediately-vindicated.markdown
++++ /dev/null
+@@ -1,19 +0,0 @@
+----
+-layout: post
+-category: personal
+-title: "I Quit Facebook Part II: In Which I Am Immediately Vindicated"
+----
+-
+-So I [quit Facebook][1] a couple of days ago. Not completely, but I disabled my account. I think I'm going to delete it
+-completely after finding out today that Facebook is [adding "applications"][2] to our profiles just for visiting other
+-websites. And there's no clear way to disable this behavior.
+-
+-Unfortunately I don't think many people will care about this, although I think most people should. Facebook will
+-probably keep on growing. But at least one guy thinks [Facebook is dying][3]. I'm not sure I see Facebook dying
+-anytime soon, but I can see it relegated to a niche community, kind of like MySpace is still used by musicians. Who
+-will still be on Facebook in five years? I'm guessing mostly [older women][4].
+-
+-[1]:/personal/2010/05/05/i-quit-facebook-sort-of.html
+-[2]:http://www.macworld.com/article/151087/2010/05/facebook_addingapps.html
+-[3]:http://www.baekdal.com/opinion/facebook-is-dying-social-is-not/
+-[4]:http://www.insidefacebook.com/2009/02/02/fastest-growing-demographic-on-facebook-women-over-55/
+diff --git a/_posts/2010-9-10-own-your-identity.markdown b/_posts/2010-9-10-own-your-identity.markdown
+deleted file mode 100644
+index b3d8fba..0000000
+--- a/_posts/2010-9-10-own-your-identity.markdown
++++ /dev/null
+@@ -1,65 +0,0 @@
+----
+-layout: post
+-category: tech
+-title: "Own Your Identity"
+----
+-
+-Identity is a word that seems to have many meanings. It's your substance, your DNA, how people know you, your name, your email address, your job,
+-the collection of all your thoughts and opinions. If asked "What is your identity?" or "Who are you?" I think almost everyone would begin to answer
+-with "I am...." So identity is inherently personal. It will mean something slightly different to each individual.
+-
+-**Identity is not constant.** It shifts, both over long periods of time and within a single day. Your identity at work is a variation of your identity
+-at home with your parents, which is a variation of your identity when you're alone with your boyfriend or girlfriend. Some parts of your identity
+-will remain constant through a number of these variations, while others may exist in only one.
+-
+-Identity is only meaningful because we are constantly coming into contact with other people, and we need to differentiate ourselves from them. **If you
+-were the only person on the earth, your identity
+-wouldn't matter at all.** You would have no need to identify yourself or to distinguish yourself from others. So your identity at its very core only
+-exists to assist us in social contact.
+-
+-So it's no wonder that so many of the things we associate with our identities are directly related to social communication: our names, our addresses,
+-our phone numbers, our email addresses. These are the keys that allow others to unlock the wealth of information inside each of us. Therefore it is
+-critically important that we ourselves maintain as much control over our identities as possible.
+-
+-What happens when a government or corporation controls part of your identity? **It can hold you hostage.** This costs you money and prevents you from
+-making choices that would improve your life. There are many examples of this hostage-holding in our everyday lives. Most times we don't even realize
+-it. We often don't demand release from bondage, because we don't know that we are being held.
+-
+-So lets consider a few examples of pieces of your identity that you own and one piece you don't.
+-
+-First, **your name**. Before you could read and write, the only way to communicate with you was through speech. If your mother wanted to get your
+-attention to tell you something, she would call you by name. Now it may not seem like it because your parents gave it to you, but you control your
+-name. You can choose what names you respond to, and thereby can change your name at any time. You own that piece of your identity. Yes, the government
+-requires you to have a name to put on government-issued documents, but you can change that as well.
+-
+-Now consider **your email address**. It's a part of your identity as much as any other since it allows others to contact you directly. You can
+-choose and control your email address just as you can your name. And I don't mean simply choosing between Yahoo! Mail and GMail. At very little
+-cost to yourself you can buy your own domain name, like andrewmbenton.com, run an email server behind it and start accepting email at any address
+-you want, like me@andrewmbenton.com. You own it.
+-
+-On the other hand, think about **your phone number**. You probably got it from a telecom carrier. Until recently (in the US)
+-you had to change your number if you moved to a new phone company. And since most phones (again in the US) are tied to a particular carrier, you often
+-had to change your number if you wanted a better phone. Changing phone numbers is a major hassle, and the phone companies took advantage of that.
+-The phone company owned your number, and held you hostage.
+-
+-Porting of phone numbers is now possible, although many people aren't aware of it and I don't think the carriers are particularly excited about
+-educating us. With porting, your phone number is now a part of your identity that you own.
+-
+-Finally consider **your Facebook account**. This likely has become a major part of your identity sometime in the past five years. Other people can
+-communicate with you using Facebook messages, and they can find out a lot about you just from browsing your profile and status updates. But you don't
+-own your Facebook account. Sure you have ([almost total][1]) control over what shows up in your profile. But who really owns the data? If Facebook decided
+-tomorrow that you violated their terms of service and closed your account, could you do anything about it? Could you get any of your photos, or
+-messages, or wall posts out? Can you even get those out now to back them up? The answer is no. You don't own this (perhaps significant) piece of your
+-identity.
+-
+-So far Facebook hasn't held us hostage in obvious ways. Ads are obvious, though not terribly onerous in exchange for the value Facebook provides. But
+-Facebook has made ever more of our once private information public for it's own gain. And we are generally helpless to prevent it, since we have come
+-to rely on Facebook to provide so much of our identities. 
+-
+-Facebook may not go much farther than it has already, but then again it might. The point is that in relying on a single company to provide such a
+-significant piece of our identities **we leave ourselves vulnerable to that company's interests and needs**, which may not align perfectly with our own.
+-
+-I closed my Facebook account because I want to own my identity. Take a close look at how much of your identity Facebook provides, and make sure you're
+-comfortable with a single company owning that much of it.
+-
+-[1]:http://www.bingocardcreator.com/articles/facebook-like-button-spam
+diff --git a/_posts/2010-9-15-going-down-fighting.markdown b/_posts/2010-9-15-going-down-fighting.markdown
+deleted file mode 100644
+index 6f98c02..0000000
+--- a/_posts/2010-9-15-going-down-fighting.markdown
++++ /dev/null
+@@ -1,47 +0,0 @@
+----
+-layout: post
+-title: "Going Down Fighting"
+-category:
+-- android
+-- apple
+-- carriers
+----
+-
+-Verizon and AT&T are scared. It's probably obvious but I haven't seen or heard it discussed much: **people just aren't making many phone calls anymore**.
+-The decline probably started as email gained in popularity. And with more and more people maintaining social relationships through Facebook's wall
+-and messages and chat, the decline has surely quickened.
+-
+-I read this post last night titled ["Fighting The Wrong Fight."][1] It makes the astute point that iPhone vs Android is not the battle we as
+-consumers should be spending our time thinking about and spilling ink over. We should really be concerned with the battle between ourselves and
+-mobile "telephone" service providers like AT&T and Verizon.
+-
+-I deliberately use quotes around "telephone" here, since **all communication to and from our phones is just data**. We should really call the wireless
+-carriers "mobile data service providers." But this subtle difference is precisely what mobile data service providers are scared we will discover.
+-So I doubt they are eager for us to start referring to them with a properly descriptive phrase.
+-
+-They are scared because they sell voice and SMS data at extremely high margins, and they would like to continue doing that. If people were
+-to notice that wireless carriers are **charging an effective rate of [$375/MB][2] for SMS** (assuming each message costs five cents) they might get
+-upset. Compare that to [AT&T's recent data plan price shift][3] which charges $15 for 200MB for an effective rate of $0.075/MB and you understand why.
+-So we see wireless
+-carrier plans broken down into voice, SMS and data segments, to make it seem as though there is a difference.
+-
+-**But the shift from wireless "telephone" service provider to wireless data service provider is inevitable**, and the carriers know it. It also appears
+-to be inevitable that
+-the wireless carriers will milk us for all they can on the way down (T-Mobile excluded; more in an upcoming post). All carriers besides T-Mobile are
+-charging an extra fee to enable the free wifi hotspot feature included by default in the Android OS, which allows a computer to connect to the internet
+-through the phone's internet connection. Sprint's data plans for the Android EVO cost $10 more than for their other smartphones. But why? It's all the same data!?!
+-
+-Wireless carriers are also trying to set reference prices for data service in anticipation of the total decline in SMS and voice usage. Just
+-refer to recent changes in [Verizon's service plan prices][4] where they cut voice plan prices while simultaneously raising data plan prices.
+-
+-Now despite their obvious differences, I believe Google and Apple are both on our side in trying to relegate wireless data service to a commodity.
+-But we've got to do most of the fighting
+-ourselves. We need to stop putting up with carriers bullying us around. Stop buying carrier-locked phones. **Stop signing long-term contracts in
+-exchange for subsidized phones**. Those are just carrier delay tactics. The sooner we push wireless carriers down where they belong, the better off we'll all be.
+-
+-
+-
+-[1]:http://eliainsider.com/2010/09/14/fighting-the-wrong-fight/
+-[2]:http://gthing.net/the-true-price-of-sms-messages
+-[3]:http://arstechnica.com/telecom/news/2010/06/new-att-data-plans-milk-data-gluttons-lower-costs-for-most.ars
+-[4]:http://digitaldaily.allthingsd.com/20100115/new-verizon-wireless-plans-available-monday/
+diff --git a/compile/2011/06/11/first-post.html b/compile/2011/06/11/first-post.html
+index ef6c8de..c896500 100755
+--- a/compile/2011/06/11/first-post.html
++++ b/compile/2011/06/11/first-post.html
+@@ -11,7 +11,7 @@
+     <div class="container">
+       <div id="header">
+         <div id="title-area">
+-          <h1 id="title"><a href="/">"Scholarist",/a></h1>
++          <h1 id="title"><a href="/">"Scholarist"</a></h1>
+           <h2 id="biline">A linky diary</h2> 
+         </div>
+         </div>
+diff --git a/compile/2011/08/17/second-post.html b/compile/2011/08/17/second-post.html
+index 3a9262f..6ef672f 100755
+--- a/compile/2011/08/17/second-post.html
++++ b/compile/2011/08/17/second-post.html
+@@ -11,7 +11,7 @@
+     <div class="container">
+       <div id="header">
+         <div id="title-area">
+-          <h1 id="title"><a href="/">"Scholarist",/a></h1>
++          <h1 id="title"><a href="/">"Scholarist"</a></h1>
+           <h2 id="biline">A linky diary</h2> 
+         </div>
+         </div>
+diff --git a/compile/atom.xml b/compile/atom.xml
+index 3dacb2c..fd8d25d 100755
+--- a/compile/atom.xml
++++ b/compile/atom.xml
+@@ -3,7 +3,7 @@
+   <title>"Hello Sorld!", a weblog by Andrew Benton</title>
+   <link href="http://hellosorld.com/atom.xml" rel="self"/>
+   <link href="http://hellosorld.com/"/>
+-  <updated>2011-09-30T18:28:20+00:00</updated>
++  <updated>2011-09-30T18:37:01+00:00</updated>
+   <id>http://hellosorld.com/</id>
+   <author>
+     <name>Andrew Benton</name>
+diff --git a/compile/error.html b/compile/error.html
+index 4611265..de4a8a9 100755
+--- a/compile/error.html
++++ b/compile/error.html
+@@ -11,7 +11,7 @@
+     <div class="container">
+       <div id="header">
+         <div id="title-area">
+-          <h1 id="title"><a href="/">"Scholarist",/a></h1>
++          <h1 id="title"><a href="/">"Scholarist"</a></h1>
+           <h2 id="biline">A linky diary</h2> 
+         </div>
+         </div>
+diff --git a/compile/images/photo.jpg b/compile/images/photo.jpg
+deleted file mode 100755
+index 6723aba..0000000
+Binary files a/compile/images/photo.jpg and /dev/null differ
+diff --git a/compile/images/pic.jpg b/compile/images/pic.jpg
+deleted file mode 100755
+index b47fc11..0000000
+Binary files a/compile/images/pic.jpg and /dev/null differ
+diff --git a/compile/index.html b/compile/index.html
+index c98c42a..919dfa2 100755
+--- a/compile/index.html
++++ b/compile/index.html
+@@ -11,7 +11,7 @@
+     <div class="container">
+       <div id="header">
+         <div id="title-area">
+-          <h1 id="title"><a href="/">"Scholarist",/a></h1>
++          <h1 id="title"><a href="/">"Scholarist"</a></h1>
+           <h2 id="biline">A linky diary</h2> 
+         </div>
+         </div>
+diff --git a/robots.txt b/robots.txt
+deleted file mode 100644
+index 061e530..0000000
+--- a/robots.txt
++++ /dev/null
+@@ -1,4 +0,0 @@
+----
+-layout: nil
+-permalink: /robots.txt
+----

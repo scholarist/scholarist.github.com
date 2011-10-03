@@ -3,34 +3,122 @@
   <title>"Hello Sorld!", a weblog by Andrew Benton</title>
   <link href="http://hellosorld.com/atom.xml" rel="self"/>
   <link href="http://hellosorld.com/"/>
-  <updated>2011-09-30T18:28:20+00:00</updated>
+  <updated>2011-09-30T20:49:38+00:00</updated>
   <id>http://hellosorld.com/</id>
   <author>
     <name>Andrew Benton</name>
   </author>
   
     <entry>
-      <title>second post</title>
-      <link href="http://hellosorld.com/2011/08/17/second-post.html"/>
-      <updated>2011-08-17T00:00:00+00:00</updated>
-      <id>http://hellosorld.com/2011/08/17/second-post</id>
-      <content type="html">&lt;p&gt;This is my second post, what I&amp;#8217;m using with the new &lt;em&gt;jekyll&lt;/em&gt; toy.&lt;/p&gt;
+      <title>Journals</title>
+      <link href="http://hellosorld.com/2011/09/30/Journals.html"/>
+      <updated>2011-09-30T00:00:00+00:00</updated>
+      <id>http://hellosorld.com/2011/09/30/Journals</id>
+      <content type="html">&lt;p&gt;September 30 2011&lt;/p&gt;
 
-&lt;p&gt;This is the &lt;strong&gt;second&lt;/strong&gt; paragraph.&lt;/p&gt;
+&lt;p&gt;It seems that the heart of American literature, or at least all that&amp;#8217;s good in American literature, is in Thoreau&amp;#8217;s &lt;em&gt;Journals&lt;/em&gt;. Thoreau wrote these to a high standard, and the sentences and paragraphs in his journal as as good as anything in &lt;em&gt;Walden&lt;/em&gt;. There is no doubt about the quality of the &lt;em&gt;Journals&lt;/em&gt; or of the labor that went into them.&lt;/p&gt;
 
-&lt;p&gt;See me online at &lt;a href='http://scholarist.livejournal.com'&gt;scholarist&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;What the &lt;em&gt;Journals&lt;/em&gt; give up is Thoreau&amp;#8217;s ongoing self-invention. Through the daily entries, Thoreau documents his development as a writer and a thinker. Since he had few models, and had testy relations with those, at best, he made up much of it as he went along. It was a hard road, and it took him years to shake off the nonsense he learned at Harvard (at least until 1850 or thereabouts).&lt;/p&gt;
+
+&lt;p&gt;There&amp;#8217;s nothing more American than this, or at least nothing more positively American. Canby says that in the 1830s a man could do anything he wanted except make a living as a artist or writer. Thoreau figured out a way to do just that, and documented the steps he took, one day at a time, for 25 years.&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;Journals&lt;/em&gt; are a detailed exploration of a mind, and in this sense have the same aspirations as Montaigne&amp;#8217;s &lt;em&gt;Essais&lt;/em&gt;. They aren&amp;#8217;t constructed as the &lt;em&gt;Essais&lt;/em&gt; are, though, in that Thoreau doesn&amp;#8217;t build them up into bigger pieces, revising and fitting them together (except when he draws extracts for a piece meant for publication, like &lt;em&gt;Walden&lt;/em&gt; or &lt;em&gt;Walking&lt;/em&gt;). Instead, the &lt;em&gt;Journals&lt;/em&gt; are writing-in-process, daily writing, much like Pepys&amp;#8217; famous diary, though without the nitty-gritty of daily life. Like Pepys, Thoreau couldn&amp;#8217;t help but write everyday.&lt;/p&gt;
+
+&lt;p&gt;If I had to say what Thoreau&amp;#8217;s great accomplishment was, it would be creating a new form combining the &lt;em&gt;Essais&lt;/em&gt; and the &lt;em&gt;Diary&lt;/em&gt;. And what a form it is.&lt;/p&gt;</content>
     </entry>
   
     <entry>
-      <title>second post</title>
-      <link href="http://hellosorld.com/2011/06/11/first-post.html"/>
-      <updated>2011-06-11T00:00:00+00:00</updated>
-      <id>http://hellosorld.com/2011/06/11/first-post</id>
-      <content type="html">&lt;p&gt;This is my second post, what I&amp;#8217;m using with the new &lt;em&gt;jekyll&lt;/em&gt; toy.&lt;/p&gt;
+      <title>Writing</title>
+      <link href="http://hellosorld.com/2011/09/29/diary.html"/>
+      <updated>2011-09-29T00:00:00+00:00</updated>
+      <id>http://hellosorld.com/2011/09/29/diary</id>
+      <content type="html">&lt;p&gt;Why write? Why keep a commonplace or a journal? Because you want to construct a self who writes.&lt;/p&gt;
 
-&lt;p&gt;This is the &lt;strong&gt;second&lt;/strong&gt; paragraph.&lt;/p&gt;
+&lt;p&gt;Donald Frame on Montaigne:&lt;/p&gt;
 
-&lt;p&gt;See me online at &lt;a href='http://scholarist.livejournal.com'&gt;scholarist&lt;/a&gt;&lt;/p&gt;</content>
+&lt;blockquote&gt;
+&lt;p&gt;Self-sufficient though he was, he had an imperious need to communicate. The &lt;em&gt;Essais&lt;/em&gt; are his means of communication; the reader takes the place of the dead friend.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Keeping a journal or a commonplace is just another way of communicating. The process allows you entry into the world where writers write, where words and ideas are moved around on a page and where you can build up a substantial body of work simply by applying yourself repeatedly. There is a low barrier to entry, unless you wish to publish, but publication is something completely different from writing, isn&amp;#8217;t it?&lt;/p&gt;</content>
+    </entry>
+  
+    <entry>
+      <title>Curation</title>
+      <link href="http://hellosorld.com/2011/09/27/curation.html"/>
+      <updated>2011-09-27T00:00:00+00:00</updated>
+      <id>http://hellosorld.com/2011/09/27/curation</id>
+      <content type="html">&lt;p&gt;Sarah Epps wrote about the iPad and &quot;curated computing&quot;&amp;nbsp; in &lt;a href='http://is.gd/kfMSl'&gt;Ars Technica&lt;/a&gt; last year:&lt;/p&gt;&lt;p&gt;There is something very significant about the iPad beyond how many&lt;br /&gt; units it will sell: it's changing how we think about the PC. The
+iPad&lt;br /&gt; creates a use case for a device that doesn't do everything
+your laptop&lt;br /&gt; does, targeted at a consumer that uses devices more
+for consumption&lt;br /&gt; than production. The iPad ushers in a new era of
+personal computing&lt;br /&gt; that we call &quot;Curated Computing&quot;&amp;mdash;a mode
+of computing where choice is&lt;br /&gt; constrained to deliver less complex,
+more relevant experiences. Let me&lt;br /&gt; repeat that, because it's the
+essence of the Curated Computing&lt;br /&gt; experience: less choice; more
+relevance.&lt;/p&gt;&lt;p&gt;In a curated environment, freedom and openness are exchanged for
+convenience and relevance.&lt;/p&gt;&lt;p&gt;&lt;a href='http://is.gd/kfNO4'&gt;Wired&lt;/a&gt;, on musical curation replacing
+music criticism:&lt;/p&gt;&lt;p&gt;The fact that your favorite MP3 blog mentions something at all is
+more&lt;br /&gt; important than what they say about it, because you can then
+download&lt;br /&gt; or stream the song and decide for yourself.&lt;/p&gt;&lt;p&gt;W. T. Quick is a sf writer whom I think is mostly a hack. However. In
+the&lt;a href='http://www.isfdb.org/cgi-bin/pl.cgi?ANLGMAY89'&gt; May,
+1989&lt;/a&gt; issue of &lt;em&gt;Analog&lt;/em&gt; he published a short story titled
+&quot;Bank Robbery&quot;, about a man who makes  his living reading the vast
+amount of freely distributed essays, books,  articles available on the
+&quot;net&quot;, and writing up a periodical review for  sale to interested
+readers who came to trust his judgment totally. The  man curated text,
+as we would call it.&lt;/p&gt;&lt;p&gt;While I didn't think the story had much literary value I was struck
+with the core concept and in the last 20 years I've only seen one
+confirmation after another of Quick's vision. This is probably the way
+science fiction thinks it works.&lt;/p&gt;</content>
+    </entry>
+  
+    <entry>
+      <title>Web as platform</title>
+      <link href="http://hellosorld.com/2011/09/22/web.html"/>
+      <updated>2011-09-22T00:00:00+00:00</updated>
+      <id>http://hellosorld.com/2011/09/22/web</id>
+      <content type="html">&lt;p&gt;Joe Hewitt, &amp;#8220;Web Technologies Need an Owner&amp;#8221; &lt;em&gt;&lt;a href='http://is.gd/vzXtdb'&gt;Link&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When you read randomly and widely, you find articles that clarify your thinking. I&amp;#8217;d heard about the &amp;#8220;web as a platform&amp;#8221;, but I was never sure what it meant. Hewitt simplifies it, perhaps too much, to html, css, and Javascript. Any web application is going to use those three tools. The web is open, free, and leaderless because these three tools are widely available.&lt;/p&gt;
+
+&lt;p&gt;Fundamentally, Hewitt thinks this is a flaw. The ownerless web can&amp;#8217;t innovate quickly enough to keep up with proprietary internet applications designed for mobile phones and tablets. Eventually FaceBorg and all the rest will be accessed from proprietary apps, and the web version of the services, if they exist at all, will be vestigial. The web will go back to being a large repository of hyperlinked documents, sort of Gopher with pictures.&lt;/p&gt;</content>
+    </entry>
+  
+    <entry>
+      <title>Baker Farm</title>
+      <link href="http://hellosorld.com/2011/08/30/notes.html"/>
+      <updated>2011-08-30T00:00:00+00:00</updated>
+      <id>http://hellosorld.com/2011/08/30/notes</id>
+      <content type="html">&lt;p&gt;HDT talks about the trees in the neighborhood, listing them by name, and ending by calling them &amp;#8220;shrines&amp;#8221;. The chapter changes tack during a rainstorm, when he finds cover in what he at first thinks is an abandoned hut. He meets the Field family, poor Irish, supported by father John&amp;#8217;s work as a bogger, who earns 10 dollars an acre for digging up meadowland.&lt;/p&gt;
+
+&lt;p&gt;Thoreau thinks he&amp;#8217;s getting the short end of the deal as this work will cost him much more than 10 bucks a month.&lt;/p&gt;
+
+&lt;p&gt;I think some of the costs may be real&amp;#8211;bogging is hard work and wears out heavy boots and clothing. Other costs, certainly, are the neglected opportunities Field and his family will miss by trying to pursue wealth the old -fashioned way, through hard and meaningless work that limits freedom. He notes Mrs. Field, saying she still thinks she can improve her life.&lt;/p&gt;
+
+&lt;p&gt;I detect a condescension to the poor Irish here and I probably reacted to it when I last read &lt;em&gt;Walden&lt;/em&gt; about 10 years ago. HDT was blaming the poor for their problems. Of course I had no problem when HDT blames the bourgeoisie for &lt;em&gt;their&lt;/em&gt; problems, because somehow I see the poor as different, with fewer resources to help themselves. This is equally condescending, of course, treating the poor as helpless.&lt;/p&gt;
+
+&lt;p&gt;Regardless of the cause of the poverty, the proper interpretation seems to be that anyone has agency, that anyone can do things to improve their life and escape poverty. Not by making more money, of course, but by living simply. When you redefine poverty as the lack of things that are really important in life, you can escape it this way.&lt;/p&gt;
+
+&lt;p&gt;Of course, this kind of secular renunciation is quietist. That&amp;#8217;s another argument.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Thoreau&amp;#8217;s quietism is problematic. While he talks about a renunciation of worldly economic activity to all for more important pursuits, he leaves open what those pursuits should be. Having more time for your thoughts may mean having more time for writing and publishing anti-slavery lectures. Like John Brown, HDT was an ascetic in pursuit of something and not having to worry about spending all your time tending your farm freed him up to write things like &amp;#8220;A Plea for Captain John Brown&amp;#8221;.&lt;/p&gt;
+
+&lt;p&gt;Notice from August 30 1856:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If you would really take a position outside the street and daily life of men, you must have deliberately planned your course, you must have business which is not your neighbors&amp;#8217; business, which they cannot understand. For only absorbing employment prevails, succeed, takes up space, occupies territory, determines the future of individuals and states, drives Kansas out of your head and actually and permanently occupies the only desirable and free Kansas against all border ruffians.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I ran into this notice directly after wondering about HDT&amp;#8217;s &amp;#8220;quietism&amp;#8221;. John Field and his family, once they figured out how to live free, could plan a deliberately course of business outside of the ken of their neighbors. It would probably not be abolition, if I understand the 19th century Irish immigrant, but something else as important.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;HDT&amp;#8217;s August 30 notice continues with the cranberry harvest. He gathers cranberries from a bog. Sometime before he told the owner about the berries and the farmer, not seeing a profit to be made, gave it up to HDT and his annual expeditions. An excerpt:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I am the only person in the township who regards them or knows of them, and I do not regard them in the light of their pecuniary value. I have no doubt I felt richer wading there with my two pockets full, treading on wonders at every step, than any farmer going to marked with a hundred bushels which he has raked or hired to be raked. I got further and further from the town every moment, and my good genius seemed to have smiled on me leading me hither, and then the suddenly came out clear and bright, but it did not warm my feet.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Here he&amp;#8217;s found his &amp;#8220;absorbing employment&amp;#8221;, far from the street and daily life of men.&lt;/p&gt;</content>
     </entry>
   
 </feed>
