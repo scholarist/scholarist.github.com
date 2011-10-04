@@ -1,19 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>"Hello Sorld!", a weblog by Andrew Benton</title>
-  <link href="http://hellosorld.com/atom.xml" rel="self"/>
-  <link href="http://hellosorld.com/"/>
-  <updated>2011-10-04T15:10:16-04:00</updated>
-  <id>http://hellosorld.com/</id>
+  <title>Scholarist</title>
+  <link href="http://scholarist.net/atom.xml" rel="self"/>
+  <link href="http://scholarist.net/"/>
+  <updated>2011-10-04T16:15:36-04:00</updated>
+  <id>http://scholarist.net/</id>
   <author>
-    <name>Andrew Benton</name>
+    <name>Kevin Welch</name>
   </author>
   
     <entry>
+      <title>Occupy Everything</title>
+      <link href="http://scholarist.net/2011/10/04/Occupy.html"/>
+      <updated>2011-10-04T00:00:00-04:00</updated>
+      <id>http://scholarist.net/2011/10/04/Occupy</id>
+      <content type="html">&lt;p&gt;The &lt;a href='http://occupywallst.org/'&gt;Occupy Wallstreet&lt;/a&gt; protests are spreading; &lt;a href='http://www.dailykos.com/story/2011/10/04/1022722/-Occupy-Wall-Street:-List-and-map-of-over-200-US-solidarity-events-and-Facebook%C2%A0pages'&gt;Daily Kos&lt;/a&gt; lists over 200 events, including one in Madison, and &lt;a href='http://www.occupytogether.org/'&gt;Occupy Together&lt;/a&gt; is serving as an internet clearing house.&lt;/p&gt;
+
+&lt;p&gt;Many of the local events rely on Facebook to host their web presence. &lt;a href='http://scripting.com/stories/2011/10/04/howAndWhyYourOccupySiteSho.html'&gt;Winer&lt;/a&gt;, argues that the groups should rely instead on RSS, which comes free with every blog host out there&amp;#8211;Tumblr, Wordpress, and LiveJournal are three good choices. Some people still don&amp;#8217;t pay much attention to the &amp;#8216;borg; and, after all, its good policy to diversify your news feeds by reposting the Facebook material elsewhere. As Dave says,:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Facebook is the equivalent of Wall Street in the tech world. So it&amp;#8217;s important that you communicate not just with people inside Facebook, but those outside as well.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Kids, friends don&amp;#8217;t let friends use Facebook.&lt;/p&gt;</content>
+    </entry>
+  
+    <entry>
       <title>Journals</title>
-      <link href="http://hellosorld.com/2011/09/30/Journals.html"/>
+      <link href="http://scholarist.net/2011/09/30/Journals.html"/>
       <updated>2011-09-30T00:00:00-04:00</updated>
-      <id>http://hellosorld.com/2011/09/30/Journals</id>
+      <id>http://scholarist.net/2011/09/30/Journals</id>
       <content type="html">&lt;p&gt;September 30 2011&lt;/p&gt;
 
 &lt;p&gt;It seems that the heart of American literature, or at least all that&amp;#8217;s good in American literature, is in Thoreau&amp;#8217;s &lt;em&gt;Journals&lt;/em&gt;. Thoreau wrote these to a high standard, and the sentences and paragraphs in his journal as as good as anything in &lt;em&gt;Walden&lt;/em&gt;. There is no doubt about the quality of the &lt;em&gt;Journals&lt;/em&gt; or of the labor that went into them.&lt;/p&gt;
@@ -29,9 +45,9 @@
   
     <entry>
       <title>Writing</title>
-      <link href="http://hellosorld.com/2011/09/29/diary.html"/>
+      <link href="http://scholarist.net/2011/09/29/diary.html"/>
       <updated>2011-09-29T00:00:00-04:00</updated>
-      <id>http://hellosorld.com/2011/09/29/diary</id>
+      <id>http://scholarist.net/2011/09/29/diary</id>
       <content type="html">&lt;p&gt;Why write? Why keep a commonplace or a journal? Because you want to construct a self who writes.&lt;/p&gt;
 
 &lt;p&gt;Donald Frame on Montaigne:&lt;/p&gt;
@@ -45,9 +61,9 @@
   
     <entry>
       <title>Curation</title>
-      <link href="http://hellosorld.com/2011/09/27/curation.html"/>
+      <link href="http://scholarist.net/2011/09/27/curation.html"/>
       <updated>2011-09-27T00:00:00-04:00</updated>
-      <id>http://hellosorld.com/2011/09/27/curation</id>
+      <id>http://scholarist.net/2011/09/27/curation</id>
       <content type="html">&lt;p&gt;Sarah Epps wrote about the iPad and &quot;curated computing&quot;&amp;nbsp; in &lt;a href='http://is.gd/kfMSl'&gt;Ars Technica&lt;/a&gt; last year:&lt;/p&gt;&lt;p&gt;There is something very significant about the iPad beyond how many&lt;br /&gt; units it will sell: it's changing how we think about the PC. The
 iPad&lt;br /&gt; creates a use case for a device that doesn't do everything
 your laptop&lt;br /&gt; does, targeted at a consumer that uses devices more
@@ -75,9 +91,9 @@ science fiction thinks it works.&lt;/p&gt;</content>
   
     <entry>
       <title>Web as platform</title>
-      <link href="http://hellosorld.com/2011/09/22/web.html"/>
+      <link href="http://scholarist.net/2011/09/22/web.html"/>
       <updated>2011-09-22T00:00:00-04:00</updated>
-      <id>http://hellosorld.com/2011/09/22/web</id>
+      <id>http://scholarist.net/2011/09/22/web</id>
       <content type="html">&lt;p&gt;Joe Hewitt, &amp;#8220;Web Technologies Need an Owner&amp;#8221; &lt;em&gt;&lt;a href='http://is.gd/vzXtdb'&gt;Link&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;When you read randomly and widely, you find articles that clarify your thinking. I&amp;#8217;d heard about the &amp;#8220;web as a platform&amp;#8221;, but I was never sure what it meant. Hewitt simplifies it, perhaps too much, to html, css, and Javascript. Any web application is going to use those three tools. The web is open, free, and leaderless because these three tools are widely available.&lt;/p&gt;
@@ -87,9 +103,9 @@ science fiction thinks it works.&lt;/p&gt;</content>
   
     <entry>
       <title>Baker Farm</title>
-      <link href="http://hellosorld.com/2011/08/30/notes.html"/>
+      <link href="http://scholarist.net/2011/08/30/notes.html"/>
       <updated>2011-08-30T00:00:00-04:00</updated>
-      <id>http://hellosorld.com/2011/08/30/notes</id>
+      <id>http://scholarist.net/2011/08/30/notes</id>
       <content type="html">&lt;p&gt;HDT talks about the trees in the neighborhood, listing them by name, and ending by calling them &amp;#8220;shrines&amp;#8221;. The chapter changes tack during a rainstorm, when he finds cover in what he at first thinks is an abandoned hut. He meets the Field family, poor Irish, supported by father John&amp;#8217;s work as a bogger, who earns 10 dollars an acre for digging up meadowland.&lt;/p&gt;
 
 &lt;p&gt;Thoreau thinks he&amp;#8217;s getting the short end of the deal as this work will cost him much more than 10 bucks a month.&lt;/p&gt;
