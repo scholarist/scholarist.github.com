@@ -4,20 +4,20 @@ permalink: /atom.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>"Hello Sorld!", a weblog by Andrew Benton</title>
-  <link href="http://hellosorld.com/atom.xml" rel="self"/>
-  <link href="http://hellosorld.com/"/>
+  <title>Scholarist</title>
+  <link href="http://scholarist.net/atom.xml" rel="self"/>
+  <link href="http://scholarist.net/"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://hellosorld.com/</id>
+  <id>http://scholarist.net/</id>
   <author>
-    <name>Andrew Benton</name>
+    <name>Kevin Welch</name>
   </author>
   {% for post in site.posts %}
     <entry>
       <title>{{ post.title }}</title>
-      <link href="http://hellosorld.com{{ post.url }}"/>
+      <link href="http://scholarist.net{{ post.url }}"/>
       <updated>{{ post.date | date_to_xmlschema }}</updated>
-      <id>http://hellosorld.com{{ post.id }}</id>
+      <id>http://scholarist.net{{ post.id }}</id>
       <content type="html">{{ post.content | xml_escape }}</content>
     </entry>
   {% endfor %}
