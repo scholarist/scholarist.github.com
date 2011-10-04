@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link type="text/css" href="/css/hellosorld.css" rel="stylesheet">
+    <link href="/favicon.ico" rel="shortcut icon"/>
+    <title>"Scholarist" : Presenting ifmap.js and jsmap</title>
+    <meta name="description" content="A linky diary"> 
+  </head>
+  <body>
+    <div class="container">
+      <div id="header">
+        <div id="title-area">
+          <h1 id="title"><a href="/">Scholarist</a></h1>
+          <h2 id="biline">A linky diary</h2> 
+        </div>
+        </div>
+      
+      <div id="content">
+        <div id="post">
+<h1 class="content-heading">Presenting ifmap.js and jsmap</h1>
+<span id="post-date">12 May 2010</span>
+
+
+<p>I&#8217;ve spent the past six months as a contractor with <a href='http://www.infoblox.com/'>Infoblox</a> in Santa Clara California working on projects related to <a href='http://ifmapdev.com/documentation'>IF-MAP</a>, a client/server protocol for network-connected devices. I should have written a post describing the protocol long ago, but I wanted it to be entertaining and have pretty pictures which ended up deterring me from ever starting. So for the purposes of this post it&#8217;s enough to say that a MAP server is pretty much just a graph database with publish, search and subscribe operations, and a MAP client uses the IF-MAP protocol to perform those operations. The IF-MAP protocol itself is really just a specific <a href='http://en.wikipedia.org/wiki/SOAP'>SOAP</a> format built on top of HTTPS as a transport layer.</p>
+
+<p>So with that little bit of background, I&#8217;m announcing the open-source release of two related software projects: <a href='http://github.com/andrewmbenton/ifmap.js'>ifmap.js</a> and <a href='http://github.com/andrewmbenton/jsmap'>jsmap</a>. I&#8217;ll describe each briefly below. See the README documents in each project&#8217;s repository for more information.</p>
+
+<h3 id='ifmapjs'><a href='http://github.com/andrewmbenton/ifmap.js'>ifmap.js</a></h3>
+
+<p>ifmap.js is an IF-MAP client library implementation in JavaScript. It depends on <a href='http://api.jquery.com/'>jQuery</a>&#8217;s $.post(), $.each() and $.proxy() functions. Due to browsers&#8217; <a href='http://en.wikipedia.org/wiki/Same_origin_policy'>same-origin policy</a> a JavaScript IF-MAP client can&#8217;t send requests directly to a remote MAP server. All requests must be sent through a proxy, sold separately. For a simple example of how this might work, see&#8230;</p>
+
+<h3 id='jsmap'><a href='http://github.com/andrewmbenton/jsmap'>jsmap</a></h3>
+
+<p>jsmap uses ifmap.js to build an actual IF-MAP client that runs in the browser. You can point and click to build IF-MAP requests, submit them to a MAP server and see the responses. Requests are proxied through a simple <a href='http://www.sinatrarb.com/'>Sinatra</a> application.</p>
+
+<p>Comments and suggestions are most welcome. Just send me an email; my address is pretty easy to find. For more information about IF-MAP see <a href='http://ifmapdev.com/documentation'>ifmapdev.com/documentation</a> and join the <a href='http://groups.google.com/group/ifmapdev'>ifmapdev Google Group</a>.</p>
+
+</div>
+
+
+      </div>
+      
+      <div id="sidebar">
+        
+        <div class="blurb">
+          <h2 class="blurb-heading top-heading"><a href="/">Kevin Welch</a>:</h2>
+          <br/>
+Reading, thinking and writing in Madison, Wisconsin, USA. <br/>
+          <a href="mailto:kw@scholarist.net">Email</a>
+          <br/>
+<a href="http://scholarist.livejournal.com">LJ</a>
+          <br/>
+<a href="http://twitter.com/scholarist">Twitter</a>
+          <br/>
+        </div>
+        <div class="blurb">
+          <h2 class="blurb-heading">Stuff I'm Doing (Or Did):</h2>
+        </div>
+        <div class="blurb">
+        </div>
+        <div class="blurb">
+      </div>
+      
+      <div id="footer">
+        &copy; 2009 amb
+        |
+        this site's
+        <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fhellosorld.com%2F" target="_blank">html</a>
+        and
+        <a href="http://jigsaw.w3.org/css-validator/check/referer">css</a>
+        are
+        <a href="http://validator.w3.org" target="_blank">valid</a>
+      </div>
+    </div>
+  </body>
+</html>
