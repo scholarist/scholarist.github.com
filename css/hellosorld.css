@@ -5,17 +5,17 @@ body {
 }
 .container {
   margin: auto;
-  width: 800px;
+  width: 1000px;
 }
 #header {
   margin: auto;
   padding: 15px;
   border: solid 1px #314B9D;
-  background: #8FA5ED;
+  background: #2E3F74;
   overflow: hidden;
 }
 #header a {
-  color: #606060;
+  color: #ffffff;
 }
 #header a:hover {
   text-decoration: none;
@@ -26,12 +26,13 @@ body {
 #title {
   font-family: "Georgia", serif;
   font-size: 2em;
-  margin: 0 0 0 130px;
+  margin: 0 0 0 0px;
 }
 #biline {
-  margin: 0 0 0 170px;
+  margin: 0 0 0 40px;
   font-size: 1em;
   font-weight: normal;
+  color: #ffffff;
 }
 #subscribe-area {
   float: right;
@@ -41,7 +42,7 @@ body {
   padding: 0;
 }
 #sidebar {
-  width: 240px;
+  width: 180px;
   float: right;
   border: solid 1px #606060;
   background: #C9C9C9;
