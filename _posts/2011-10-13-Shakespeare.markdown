@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Baker Farm
+title: Shakespeare
 ---
 
 Robert Atwan edits the _Best American Essays 2010_ and his introduction
