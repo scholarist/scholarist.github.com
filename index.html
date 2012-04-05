@@ -2,14 +2,15 @@
 layout: default
 title: "A linky diary"
 ---
-<h1 class="content-heading">Recent Posts</h1>
+<hr>
+<b class="content-heading">Recent Posts</b`>
 <ul>
   {% for post in site.posts limit:5 %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 <br/>
-<h1 class="content-heading">Older...</h1>
+<b class="content-heading">Older...</b>
 <ul>
   {% for post in site.posts offset:5 %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
